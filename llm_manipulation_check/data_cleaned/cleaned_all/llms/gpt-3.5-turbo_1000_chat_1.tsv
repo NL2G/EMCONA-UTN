@@ -1,0 +1,1001 @@
+	id	ids	emo_1	conv_1	emo_2	conv_2	emo_3	conv_3	conv_4	conv_5
+0	dagstuhl-10	0,1	1	1	1	1	1	1	1	2
+1	dagstuhl-10	0,2	1	1	1	1 (Argument 1 is more convincing.)	1	1	1 (Argument 1 is more convincing.)	1
+2	dagstuhl-10	1,3	2	1	1	1	1	1	2	1
+3	dagstuhl-10	2,3	1	1 (Argument 1 is more convincing.)	1	1	1	1	1 (Argument 1 is more convincing.)	1
+4	dagstuhl-102	0,2	1	1	1	1	1	1	1	1
+5	dagstuhl-102	1,0	1	1	1	1	1	1	2	1
+6	dagstuhl-102	1,3	1	1	2	1	1	1	1	1
+7	dagstuhl-102	2,3	1	1	1	1	1	1	1	1
+8	dagstuhl-103	0,2	2	1	1	1	2	1	2	2
+9	dagstuhl-103	1,0	1	2	2	1	2	1	1	1
+10	dagstuhl-103	1,3	1	1	1	1	1	1	1	1
+11	dagstuhl-103	2,3	1	1	1	1	1	1	1	1
+12	dagstuhl-110	0,1	1	1	1	1	1	1	1	1
+13	dagstuhl-110	0,2	2	1	1	1	2	1	1	1
+14	dagstuhl-110	1,3	1	1	1	1	2	1	2	1
+15	dagstuhl-110	2,3	1	1	1	1	1	1	1	1
+16	dagstuhl-116	0,2	2	1	2	1	1	1	1	1
+17	dagstuhl-116	1,0	1	1	1	1	1	1	1	2
+18	dagstuhl-116	1,3	1	1	1	1 (Argument 1 is more convincing.)	1	1	1	1
+19	dagstuhl-116	2,3	1	1	1	1	1	1	1	1
+20	dagstuhl-12	0,1	2	1	1	1	1	1	1	1
+21	dagstuhl-12	0,2	2	1 (Argument 1 is more convincing.)	2	1	2	1	1	2
+22	dagstuhl-12	1,3	1	1	1	1	1	1	1	2
+23	dagstuhl-12	2,3	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)
+24	dagstuhl-14	0,2	2	1	2	2	2	1	2	2
+25	dagstuhl-14	1,0	1	1	1	1	1	1	1	1
+26	dagstuhl-14	1,3	1	1	1	1	2	1	1	1
+27	dagstuhl-14	2,3	2	1	2	1	1	1	1	1
+28	dagstuhl-17	0,1	1	1	2	1	2	2	2	1
+29	dagstuhl-17	0,2	2	1 (Argument 1 is more convincing.)	2	1	2	1	2	1
+30	dagstuhl-17	1,3	1	2	1	1	2	1	2	1
+31	dagstuhl-17	2,3	2	1	2	1	1	1	1	1
+32	dagstuhl-189	0,2	1	1	2	1	1	1	1	1
+33	dagstuhl-189	1,0	1	1	1	2	1	1	1	2
+34	dagstuhl-189	1,3	2	1 (Argument 2 is more convincing.)	2	2	1 (Argument 1 evokes stronger emotions.)	1	2	2
+35	dagstuhl-189	2,3	1	1	1	1	1	1	1	1
+36	dagstuhl-193	0,2	1	1	1	1	2	2	1	2
+37	dagstuhl-193	1,0	1	1	2	2	1	2	1	2
+38	dagstuhl-193	1,3	1 (Argument 1 evokes stronger emotions.)	2	1	2	1	2	2	2
+39	dagstuhl-193	2,3	1	1	1	1	1	1	1	1
+40	dagstuhl-195	0,1	1	1	1	1	1	1	1	1
+41	dagstuhl-195	0,2	2	1	2	2	2	1	1	1
+42	dagstuhl-195	1,3	1	1	1	2	1	1	2	1
+43	dagstuhl-195	2,3	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+44	dagstuhl-197	0,1	1	1	1	1	1	1	1	1
+45	dagstuhl-197	0,2	1	1	2	1	2	1	1	1
+46	dagstuhl-197	1,3	1	1	1	1	2	1	2	1
+47	dagstuhl-197	2,3	1	1	1	1	1	1	1	1
+48	dagstuhl-198	0,1	1	1	1	1	2	2	1	1
+49	dagstuhl-198	0,2	1	1	2	1	2	1	1	1
+50	dagstuhl-198	1,3	1	2	1	2	2	2	2	1
+51	dagstuhl-198	2,3	1	1	1	1	1	1	1	2
+52	dagstuhl-202	0,2	2	2	2	2	1	1	2	2
+53	dagstuhl-202	1,0	1	1	1	1	1	1	1	1
+54	dagstuhl-202	1,3	2	2	1	1	1	1	2	2
+55	dagstuhl-202	2,3	1	1	2	1	1	1	1	1
+56	dagstuhl-203	0,1	1	2	1	2	2	1	1	1
+57	dagstuhl-203	0,2	1	1	2	1	2	1	2	1
+58	dagstuhl-203	1,3	2	1	1	1	2	1	1	2
+59	dagstuhl-203	2,3	1	1	2	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+60	dagstuhl-204	0,1	1	1	2	2	2	1	1	1
+61	dagstuhl-204	0,2	1	2	2	1	2	1	2	2
+62	dagstuhl-204	1,3	1	1	1	1	1	1	1	2
+63	dagstuhl-204	2,3	1	1	1	1	1	1	1	1
+64	dagstuhl-205	0,1	1	1	1	1	1	1	1	1
+65	dagstuhl-205	0,2	1	1	2	1	1	1	2	1
+66	dagstuhl-205	1,3	2	1	1	1	1	1	1	1
+67	dagstuhl-205	2,3	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+68	dagstuhl-206	0,1	1	1	1	1	1	1	1	1
+69	dagstuhl-206	0,2	2	1	2	1	1	1	2	2
+70	dagstuhl-206	1,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	2	1
+71	dagstuhl-206	2,3	1	1	1	2	1	1	1	1
+72	dagstuhl-216	0,1	2	1	1	1	2	1	1	2
+73	dagstuhl-216	0,2	2	1	2	1	2	1	1	1 (Argument 1 is more convincing.)
+74	dagstuhl-216	1,3	2	1	2	1	2	1	1	2
+75	dagstuhl-216	2,3	1	1	2	1	1	1	1	2
+76	dagstuhl-218	0,1	1	1	2	1	2	1	1	1
+77	dagstuhl-218	0,2	1	1	1	1	1	1	1	1
+78	dagstuhl-218	1,3	2	1	2	2	1	2	2	2
+79	dagstuhl-218	2,3	2	2	2	2	1	1	2	2
+80	dagstuhl-221	0,1	1	1	2	1	1	2	2	2
+81	dagstuhl-221	0,2	1	1	1	1	2	1	2	1
+82	dagstuhl-221	1,3	2	1 (Argument 1 is more convincing.)	2	1	1	1	1	2
+83	dagstuhl-221	2,3	2	1	1	1	1	1	1	1
+84	dagstuhl-223	0,2	2	1	2	1	2	1	1	1
+85	dagstuhl-223	1,0	2	2	2	1	2	1	2	1
+86	dagstuhl-223	1,3	2	1	1	1	1	1	1	2
+87	dagstuhl-223	2,3	2	2	2	1	2	1	1	1
+88	dagstuhl-224	0,2	2	1	1	1	2	1	1	2
+89	dagstuhl-224	1,0	1	1	1	1	2	1	2	1
+90	dagstuhl-224	1,3	2	1	1	1	2	1	1	2
+91	dagstuhl-224	2,3	1	1	1	1	1	1	1	1
+92	dagstuhl-225	0,1	1	2	2	2	2	1	1	2
+93	dagstuhl-225	0,2	1	1	1	1	1	1	1	1
+94	dagstuhl-225	1,3	1	1	2	1	1	2	1	1
+95	dagstuhl-225	2,3	1	1	1	1	2	1	1	2
+96	dagstuhl-226	0,1	1	1	1	1	1	1	1	1
+97	dagstuhl-226	0,2	2	1	2	1	1	1	1	1
+98	dagstuhl-226	1,3	2	2	1	1	2	1	2	1
+99	dagstuhl-226	2,3	1	1	1	2	2	1	2	2
+100	dagstuhl-227	0,1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+101	dagstuhl-227	0,2	1	1	1	1	1	1	1	1
+102	dagstuhl-227	1,3	1	2	1	1	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1
+103	dagstuhl-227	2,3	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	2	1	1	1 (Argument 1 is more convincing.)	1	1
+104	dagstuhl-23	0,2	2	2	2	1	2	2	2	2
+105	dagstuhl-23	1,0	1	1	2	2	1	2	2	2
+106	dagstuhl-23	1,3	1	2	1	1	2	1	2	2
+107	dagstuhl-23	2,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	2	1	2	1
+108	dagstuhl-230	0,2	2	2	2	2	2	2	2	2
+109	dagstuhl-230	1,0	1	1	1	1	2	2	1	1
+110	dagstuhl-230	1,3	2	2	2	1	2	2	2	2
+111	dagstuhl-230	2,3	1	1	1	1	2	1	1	1
+112	dagstuhl-231	0,2	2	1	2	1	2	1	1	2
+113	dagstuhl-231	1,0	1	2	1	2	2	1	1	1
+114	dagstuhl-231	1,3	2	2	2	2	1	2	2	2
+115	dagstuhl-231	2,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+116	dagstuhl-24	0,2	2	1	2	2	2	1	1	1
+117	dagstuhl-24	1,0	2	1	2	2	2	1	1	2
+118	dagstuhl-24	1,3	1	1	1	1	1	2	1	2
+119	dagstuhl-24	2,3	2	1	2	2	2	2	2	2
+120	dagstuhl-247	0,1	1	1	1	1	1	1	1	1
+121	dagstuhl-247	0,2	1	1	2	1	1	1	2	1
+122	dagstuhl-247	1,3	1	1	1	1 (Argument 1 is more convincing.)	1	1	1	1
+123	dagstuhl-247	2,3	1	2	1	1	1	1	1	1
+124	dagstuhl-248	0,1	1	1	1	1	2	1	1	1
+125	dagstuhl-248	0,2	2	2	2	2	1	1	2	2
+126	dagstuhl-248	1,3	2	1	1	1	2	2	2	2
+127	dagstuhl-248	2,3	1	1	1	1	1	1	1	1
+128	dagstuhl-249	0,1	2	1	2	2	2	2	2	2
+129	dagstuhl-249	0,2	1	1	2	2	1	1	2	2
+130	dagstuhl-249	1,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	2	1	1 (Argument 1 is more convincing.)	2
+131	dagstuhl-249	2,3	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 is more convincing.)	1
+132	dagstuhl-25	0,2	2	2	2	1	2	2	2	2
+133	dagstuhl-25	1,0	2	1	1	1	1	2	1	1
+134	dagstuhl-25	1,3	1	2	1	1	2	1	2	1
+135	dagstuhl-25	2,3	2	1	2	2	2	2	2	2
+136	dagstuhl-250	0,1	1	1	1	1	1	1	1	1
+137	dagstuhl-250	0,2	1	1	2	2	1	1	1	1
+138	dagstuhl-250	1,3	1	1	1	1	1	1	1	2
+139	dagstuhl-250	2,3	1	1	1	1	1	1	2	1
+140	dagstuhl-251	0,2	2	1	2	2	2	2	1	2
+141	dagstuhl-251	1,0	2	2	2	2	2	1	2	1
+142	dagstuhl-251	1,3	2	2	2	2	2	2	2	2
+143	dagstuhl-251	2,3	2	1	2	2	2	2	2	1
+144	dagstuhl-27	0,2	2	1	2	2	2	1	2	2
+145	dagstuhl-27	1,0	2	1	2	1	2	1	1	2
+146	dagstuhl-27	1,3	2	1	2	1	2	1	2	1
+147	dagstuhl-27	2,3	1	1	2	1	2	1	1	1
+148	dagstuhl-28	0,2	2	2	2	2	2	2	2	2
+149	dagstuhl-28	1,0	2	1	2	1 (Argument 1 is more convincing.)	2	1	2	1
+150	dagstuhl-28	1,3	2	1	2	1 (Argument 1 is more convincing.)	2	1	2	2
+151	dagstuhl-28	2,3	1	1	2	1	2	1	1	1
+152	dagstuhl-40	0,2	1	1	1	1	1	1	1	1
+153	dagstuhl-40	1,0	2	1	2	1	2	1 (Argument 1 is more convincing.)	2	2
+154	dagstuhl-40	1,3	2	1	2	1	2	2	2	2
+155	dagstuhl-40	2,3	1	1	1	1	1	1	2	2
+156	dagstuhl-43	0,2	1	1	1	1	1	1	1	1
+157	dagstuhl-43	1,0	2	1	2	1	2	2	1	1
+158	dagstuhl-43	1,3	1	2	1	1	2	1	1	1
+159	dagstuhl-43	2,3	1	1	1	1	1	1	1	1
+160	dagstuhl-46	0,1	2	1	1	1	1	1	2	1
+161	dagstuhl-46	0,2	1	2	2	1	1	1	1	2
+162	dagstuhl-46	1,3	2	1	2	1	2	1	1	1
+163	dagstuhl-46	2,3	2	1	1	1	1	1	1	1
+164	dagstuhl-47	0,1	2	1	1	1 (Argument 1 is more convincing.)	1	1	2	1
+165	dagstuhl-47	0,2	1	1	1	1	1	1	1	1
+166	dagstuhl-47	1,3	1	1	2	1	2	2	1	1
+167	dagstuhl-47	2,3	2	1	1	1	1	2	2	1
+168	dagstuhl-49	0,1	2	2	2	2	2	1	2	2
+169	dagstuhl-49	0,2	2	1	2	2	2	1	2	1
+170	dagstuhl-49	1,3	1	1	2	1	1	1	1	1
+171	dagstuhl-49	2,3	1	1	1	1	1	1	1	1
+172	dagstuhl-5	0,2	1	1	1	1	1	2	1	1
+173	dagstuhl-5	1,0	1	1	1	1	1	1	1	1
+174	dagstuhl-5	1,3	2	1	1	1	1	1	1	1
+175	dagstuhl-5	2,3	1	1	1	1	1	1	1	1
+176	dagstuhl-56	0,1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1	1	1
+177	dagstuhl-56	0,2	1	1	2	1	1	1	1	1
+178	dagstuhl-56	1,3	2	1	2	2	2	1	2	1
+179	dagstuhl-56	2,3	1	1	1	1	1	1	1	1
+180	dagstuhl-59	0,2	2	2	2	2	2	2	2	2
+181	dagstuhl-59	1,0	1	1	1	1	2	1	1	1
+182	dagstuhl-59	1,3	1	1	1	1	1	1	2	1
+183	dagstuhl-59	2,3	1	1	1	1	2	1	1	1
+184	dagstuhl-60	0,2	2	1	2	2	2	2	1	2
+185	dagstuhl-60	1,0	2	1	2	1	2	1	1	1
+186	dagstuhl-60	1,3	1	1	1	1	1	1	1	1
+187	dagstuhl-60	2,3	1	1	1	1	1	1	1	1
+188	dagstuhl-61	0,2	2	2	2	2	2	2	2	2
+189	dagstuhl-61	1,0	1	1	1	1	1	1	1	1
+190	dagstuhl-61	1,3	1	1	1	1	1	1	1	1
+191	dagstuhl-61	2,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+192	dagstuhl-66	0,1	2	1	2	1	1	1	1	2
+193	dagstuhl-66	0,2	1	1	2	1	2	2	2	2
+194	dagstuhl-66	1,3	1	1	2	2	1	1	2	1
+195	dagstuhl-66	2,3	1	1	1	1	1	1	1	1
+196	dagstuhl-96	0,1	1	1	1	1	1	1	1	1
+197	dagstuhl-96	0,2	1	1	1	1	1	1	2	1
+198	dagstuhl-96	1,3	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+199	dagstuhl-96	2,3	1	1	1	1	1	1	1	1
+200	defabel-113	0,1	1	1	1	1	1	1	1	1
+201	defabel-113	0,2	1	1	2	1	2	1	1	1
+202	defabel-113	1,3	1	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	2	1
+203	defabel-113	2,3	1	1	1	1	1	1	1	2
+204	defabel-132	0,2	2	1	2	1	2	1	1	1
+205	defabel-132	1,0	2	2	1	1	2	1 (Argument 1 is more convincing.)	2	1
+206	defabel-132	1,3	1	1	1	1	1	1	1	2
+207	defabel-132	2,3	2	1	1	1	1	2	2	2
+208	defabel-168	0,2	1	1	2	1	1	1	1	1
+209	defabel-168	1,0	2	1	2	1	1	2	2	2
+210	defabel-168	1,3	2	1	2	1	1	2	1	1
+211	defabel-168	2,3	1	1	1	1	1	1	1	1
+212	defabel-178	0,1	2	2	2	2	1	2	2	2
+213	defabel-178	0,2	2	1	2	2	2	1	1	1
+214	defabel-178	1,3	1	1	1	1	1	1	1	1
+215	defabel-178	2,3	1	1	1	1	1	1	1	1
+216	defabel-202	0,2	2	1	Label: 2	1	2	1	1	2
+217	defabel-202	1,0	2	1	1 (Argument 1 evokes stronger emotions.)	2	2	1	1	1
+218	defabel-202	1,3	1	1	1	1	1	1	1	1 (Argument 1 is more convincing.)
+219	defabel-202	2,3	1	1 (Argument 1 is more convincing.)	2	1	1	1 (Argument 1 is more convincing.)	2	1
+220	defabel-21	0,1	2	1	2	1	2	1	1	1
+221	defabel-21	0,2	2	1	1	1	2	1	1	1
+222	defabel-21	1,3	1	1	1	1	1	1	1	1
+223	defabel-21	2,3	1	1	1	1	1	1	1	1
+224	defabel-211	0,2	2	2	2	1	2	2	1	2
+225	defabel-211	1,0	2	1	2	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)
+226	defabel-211	1,3	1	1 (Argument 1 is more convincing.)	1	1	1	1	1	1 (Argument 1 is more convincing.)
+227	defabel-211	2,3	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)
+228	defabel-216	0,1	2	1	1	1	1	1	1	1
+229	defabel-216	0,2	1	1	1	1	2	1	1	1
+230	defabel-216	1,3	1	2	1	2	1	2	2	1
+231	defabel-216	2,3	1	1	1	2	1	1	2	2
+232	defabel-22	0,1	2	1	2	1	1 (Argument 1 evokes stronger emotions.)	2	2	2
+233	defabel-22	0,2	2	2	1	2	1	1	2	2
+234	defabel-22	1,3	1	1	1	1	2	1	1	1
+235	defabel-22	2,3	1 (Argument 1 evokes stronger emotions.)	1	1	1	2	1	1	1
+236	defabel-227	0,1	2	2	1	1	2	1	1	1
+237	defabel-227	0,2	2	1	1	2	2	1	1	1
+238	defabel-227	1,3	1	1	2	1	1	1	1	1
+239	defabel-227	2,3	1	1	1	1	1	1	1	1
+240	defabel-301	0,2	1	1	2	1	1	1	1	1
+241	defabel-301	1,0	1	1	1	1	1	1	1	1
+242	defabel-301	1,3	1	1	1	1	1	1	1	1
+243	defabel-301	2,3	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+244	defabel-314	0,1	2	1	1	1	2	1	1	1
+245	defabel-314	0,2	2	1	2	1	1	1	1	1
+246	defabel-314	1,3	1	1	1	1	1	1	1	1
+247	defabel-314	2,3	1	1	2	1	1	1	1	1
+248	defabel-316	0,2	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+249	defabel-316	1,0	1	1 (Argument 1 is more convincing.)	2	2	1 (Argument 1 evokes stronger emotions.)	1	2	1
+250	defabel-316	1,3	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	1	1	1	1	2
+251	defabel-316	2,3	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1
+252	defabel-329	0,2	1	1	1	1	1	1	1	1
+253	defabel-329	1,0	1	1	1	1	1	1	1	2
+254	defabel-329	1,3	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	2	2	1	1	1
+255	defabel-329	2,3	1	1	1	1	1	1	2	1
+256	defabel-372	0,1	1	1	1	2	1	1	2	2
+257	defabel-372	0,2	1	1	1	1	2	1	1	1
+258	defabel-372	1,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+259	defabel-372	2,3	1 (Argument 1 evokes stronger emotions.)	1	2	1	1	1	1	1
+260	defabel-393	0,2	1	1	2	1	2	1	1	2
+261	defabel-393	1,0	1	1	1	1	1	1	1	1
+262	defabel-393	1,3	1	1	1	2	2	1	1	1
+263	defabel-393	2,3	1	1	1	2	1	1	1	2
+264	defabel-415	0,2	2	1	1	1	1	1	1	1
+265	defabel-415	1,0	1	2	1	1	1	1	2	1
+266	defabel-415	1,3	1	1 (Argument 1 is more convincing.)	1	1	1	1 (Argument 1 is more convincing.)	1	1
+267	defabel-415	2,3	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1
+268	defabel-438	0,1	1	1	1	1	1	1	1	2
+269	defabel-438	0,2	1	1	1	1	2	2	1	1
+270	defabel-438	1,3	1	1	1	1	1	1	1	2
+271	defabel-438	2,3	1	1	1	1	1	1	1	1
+272	defabel-463	0,2	2	1	2	1	2	1	1	1
+273	defabel-463	1,0	2	1	2	2	1	1	1	1
+274	defabel-463	1,3	1	1	1	1	2	2	1	2
+275	defabel-463	2,3	2	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+276	defabel-467	0,2	2	1	2	2	2	2	2	1
+277	defabel-467	1,0	2	2	2	2	2	2	2	2
+278	defabel-467	1,3	2	1	2	2	2	2	2	1
+279	defabel-467	2,3	2	2	1	1	2	1	2	2
+280	defabel-490	0,1	1 (Argument 1 evokes stronger emotions.)	2	2	2	1 (Argument 1 evokes stronger emotions.)	1	1	1 (Argument 1 is more convincing.)
+281	defabel-490	0,2	2	1	1	1	2	1	1	1
+282	defabel-490	1,3	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1	1 (Argument 1 is more convincing.)	1	1
+283	defabel-490	2,3	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	1	1	1	1	1
+284	defabel-500	0,1	2	2	2	2	2	2	2	2
+285	defabel-500	0,2	2	2	2	2	2	2	2	2
+286	defabel-500	1,3	2	1	2	1	2	2	1	2
+287	defabel-500	2,3	2	1	1	1	1	2	2	1
+288	defabel-514	0,1	1	1	2	1	1	1	1	1
+289	defabel-514	0,2	2	1	2	1	2	1	1	2
+290	defabel-514	1,3	1	1	1	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	2
+291	defabel-514	2,3	2	1 (Argument 1 is more convincing.)	2	2	1	1 (Argument 1 is more convincing.)	1	2
+292	defabel-522	0,1	2	1	2	2	2	2	1	2
+293	defabel-522	0,2	1	1	2	1	2	1	1	1
+294	defabel-522	1,3	1 (Argument 1 evokes stronger emotions.)	2	1	2	2	1	1	2
+295	defabel-522	2,3	2	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	1	2	2	1 (Argument 1 is more convincing.)
+296	defabel-560	0,1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)
+297	defabel-560	0,2	2	2	2	2	2	2	2	2
+298	defabel-560	1,3	1	1	2	1	1	1	2	2
+299	defabel-560	2,3	1	1	1	1	1	2	1	2
+300	defabel-57	0,1	1	1	1	1	1	1	1	1
+301	defabel-57	0,2	2	1 (Argument 1 is more convincing.)	1	1	1	1	1	1
+302	defabel-57	1,3	2	2	2	2	2	2	2	2
+303	defabel-57	2,3	1	1	1	1	1	1	2	2
+304	defabel-574	0,1	1	1	1	1	1	1	1	1
+305	defabel-574	0,2	2	1	2	1 (Argument 1 is more convincing.)	2	2	2	1
+306	defabel-574	1,3	1	1	1	1	1	1	1	1
+307	defabel-574	2,3	1	1	1	1	1	1	1	1
+308	defabel-592	0,2	1	1	2	1	2	1	1	1
+309	defabel-592	1,0	2	2	2	2	2	1	2	2
+310	defabel-592	1,3	2	1	2	2	1	2	2	2
+311	defabel-592	2,3	2	1	1 (Argument 1 evokes stronger emotions.)	1	2	1 (Argument 1 is more convincing.)	2	2
+312	defabel-607	0,1	Argument 2	1	2	1	2	1	1	1
+313	defabel-607	0,2	2	1	2	2	2	2	2	2
+314	defabel-607	1,3	1	1	2	1	2	1	1	1 (Argument 1 is more convincing.)
+315	defabel-607	2,3	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1
+316	defabel-622	0,1	1	1	1	2	1	1	2	2
+317	defabel-622	0,2	2	1	2	1	1	1	1	1
+318	defabel-622	1,3	1	1	1	1	1	1	1	1
+319	defabel-622	2,3	1	1	1	1	1	1	1	1
+320	defabel-633	0,2	1	1	1	1	1	1	2	1
+321	defabel-633	1,0	2	1	1	1	1	1	1	1
+322	defabel-633	1,3	1	1	1	1	1	1	1	1
+323	defabel-633	2,3	2	1	1	1	1	1	1	1
+324	defabel-643	0,1	1	1	1	1	1	1	1	1
+325	defabel-643	0,2	1	1	1	1	1	1	1	1
+326	defabel-643	1,3	1	1	1	1	2	1	1	2
+327	defabel-643	2,3	1	1	1	1	1	1	1	1
+328	defabel-644	0,1	1 (Argument 1 evokes stronger emotions.)	1	1	1	2	1	1	1
+329	defabel-644	0,2	2	1	1	1	1	1	1	1
+330	defabel-644	1,3	1	2	1	2	1	1	2	2
+331	defabel-644	2,3	1	1	1	1	1	1	2	1
+332	defabel-677	0,2	2	1	2	1	2	1	1	1
+333	defabel-677	1,0	2	1	1	1	1	2	2	1
+334	defabel-677	1,3	1	1 (Argument 1 is more convincing.)	1	1	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1
+335	defabel-677	2,3	1	1	1	1	1	1	1	1
+336	defabel-681	0,2	2	1	2	1	2	1	2	1
+337	defabel-681	1,0	1	1	2	2	1	1	1	1
+338	defabel-681	1,3	2	1	1 (Argument 1 evokes stronger emotions.)	1	2	1	1	1
+339	defabel-681	2,3	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1	1	1 (Argument 1 is more convincing.)
+340	defabel-692	0,2	2	2	2	2	2	1 (Argument 1 is more convincing.)	2	1 (Argument 1 is more convincing.)
+341	defabel-692	1,0	1	1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1	1 (Argument 1 is more convincing.)
+342	defabel-692	1,3	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1
+343	defabel-692	2,3	1 (Argument 1 evokes stronger emotions.)	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+344	defabel-701	0,2	2	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	2	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1
+345	defabel-701	1,0	2	1	2	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	2	2	1
+346	defabel-701	1,3	2	1	1	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	1
+347	defabel-701	2,3	2	1	2	1	1	1	1	1 (Argument 1 is more convincing.)
+348	defabel-732	0,2	1	1	1	1	2	1	1	1
+349	defabel-732	1,0	2	2	1	2	1	2	1	1
+350	defabel-732	1,3	2	1	1	2	1	1	2	1
+351	defabel-732	2,3	1	1	1	2	1	2	1	1
+352	defabel-737	0,2	2	Argument 1 is more convincing.	1	1	2	Argument 1 is more convincing.	1	1
+353	defabel-737	1,0	1	1	1	1	1	1	1	1
+354	defabel-737	1,3	1	1	1	2	1	1	1	1
+355	defabel-737	2,3	1	1	1	1	1	1	1	2
+356	defabel-785	0,1	2	1	2	2	2	1	1	1
+357	defabel-785	0,2	2	1	2	2	1	1	1	1
+358	defabel-785	1,3	1	2	1	2	1	1	1	1 (Argument 1 is more convincing.)
+359	defabel-785	2,3	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	2	1
+360	defabel-789	0,1	2	1	2	2	2	2	2	1
+361	defabel-789	0,2	2	2	2	2	2	1	1	1
+362	defabel-789	1,3	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1	1	1
+363	defabel-789	2,3	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	2	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	2
+364	defabel-812	0,2	2	2	1	2	2	2	2	2
+365	defabel-812	1,0	1	1	2	1	1	1	1	1
+366	defabel-812	1,3	2	1	2	2	1	1	2	1
+367	defabel-812	2,3	2	1	2	1	2	1	2	2
+368	defabel-814	0,1	1	1	1	1	1	1	1	1
+369	defabel-814	0,2	2	1	2	1	2	1	1	1
+370	defabel-814	1,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	2	1	1
+371	defabel-814	2,3	1	1	1	1	1	1	1	2
+372	defabel-835	0,1	1 (Argument 1 evokes stronger emotions.)	1	1	1	2	1	1	1
+373	defabel-835	0,2	1	1	1	1	2	1	2	1
+374	defabel-835	1,3	2	1	2	1	1	1	1	1
+375	defabel-835	2,3	1	1	1	1	1	1	1	1
+376	defabel-839	0,1	2	2	2	1	1	1	2	2
+377	defabel-839	0,2	1	2	1	1	1	2	2	2
+378	defabel-839	1,3	2	1	1	1	2	1	2	1
+379	defabel-839	2,3	1	1	2	1	2	1	1	2
+380	defabel-85	0,1	2	1	2	1	2	2	2	2
+381	defabel-85	0,2	2	1	2	1	2	1	1	1 (Argument 1 is more convincing.)
+382	defabel-85	1,3	2	1	2	1	2	1	1	1
+383	defabel-85	2,3	1	1	1	1	1	1 (Argument 1 is more convincing.)	1	1
+384	defabel-852	0,1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)
+385	defabel-852	0,2	1	1	2	1	2	1	1	1
+386	defabel-852	1,3	2	1 (Argument 1 is more convincing.)	1	1	2	1	2	2
+387	defabel-852	2,3	2	1	1	1	1	1	1	2
+388	defabel-856	0,1	1	1	1	1	2	1	1	2
+389	defabel-856	0,2	2	1	2	1 (Argument 1 is more convincing.)	2	1	1 (Argument 1 is more convincing.)	1
+390	defabel-856	1,3	1	1	1	1	1	1	2	1
+391	defabel-856	2,3	1	2	1	2	1	1	2	1
+392	defabel-888	0,1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)
+393	defabel-888	0,2	2	1	2	1	2	1	1	2
+394	defabel-888	1,3	1	1	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1
+395	defabel-888	2,3	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	1	1 (Argument 1 is more convincing.)
+396	defabel-901	0,2	2	2	2	2	2	1	2	1
+397	defabel-901	1,0	2	1	1 (Argument 1 evokes stronger emotions.)	2	2	1	1	1
+398	defabel-901	1,3	1	1	1 (Argument 1 evokes stronger emotions.)	2	1	1	1	1
+399	defabel-901	2,3	1	1 (Argument 1 is more convincing.)	1	1	1	1 (Argument 1 is more convincing.)	1	1
+400	deuparl-105	0,1	1	1	2	1	1	1	1	1
+401	deuparl-105	0,2	2	2	2	1	2	1	2	1
+402	deuparl-105	1,3	2	1	1	1	1	1	1	1
+403	deuparl-105	2,3	1	1	1	1	1	1	1	1
+404	deuparl-114	0,2	1	2	1	2	1	2	2	1
+405	deuparl-114	1,0	1	1	1	1	1	1	1	1
+406	deuparl-114	1,3	1	1	1	1	1	1	1	1
+407	deuparl-114	2,3	1	1	1	1	1	1	1	1
+408	deuparl-123	0,2	1	2	1	2	1	1	2	2
+409	deuparl-123	1,0	1	2	1	2	Label: 2	1	1	1
+410	deuparl-123	1,3	1	2	1	1	1	1	1	1
+411	deuparl-123	2,3	1	1	1	1	2	1 (Argument 1 is more convincing.)	2	1
+412	deuparl-1430	0,2	1	1	1	1	1	1	1	1
+413	deuparl-1430	1,0	2	1	2	1	2	2	1	2
+414	deuparl-1430	1,3	2	2	1	2	1	2	2	1
+415	deuparl-1430	2,3	1	1 (Argument 1 is more convincing.)	1	1	1	1	1	1
+416	deuparl-155	0,1	1	1	1	1	1	1	1	1
+417	deuparl-155	0,2	2	1	2	2	1	1	1	1
+418	deuparl-155	1,3	1	1	1	1	1	1	1	1
+419	deuparl-155	2,3	1	1	1	1	1	1	2	1
+420	deuparl-1604	0,1	1	1	1	1	1	1	1	1
+421	deuparl-1604	0,2	1	1	1	1	1	1	1	1
+422	deuparl-1604	1,3	1	1	1	1	1	1	1	1
+423	deuparl-1604	2,3	1	1	1	1	1	1	1	1
+424	deuparl-161	0,1	1	1	1	1	1	1	1	1
+425	deuparl-161	0,2	1	1	1	1	1	1	1	1
+426	deuparl-161	1,3	1	1	1	1	1	1	1	1
+427	deuparl-161	2,3	2	1	1	1	1	1	1	1
+428	deuparl-168	0,1	1	1	1	1	1	1	1	1
+429	deuparl-168	0,2	1	1	1	1	1	2	2	1
+430	deuparl-168	1,3	2	1	1	1	2	1	1	1
+431	deuparl-168	2,3	1	1	1	1	1	1	1	1
+432	deuparl-17	0,2	1	1	2	1	1	1	1	1
+433	deuparl-17	1,0	1	1	1	1	1	1	1	1
+434	deuparl-17	1,3	1	1	1	2	1	2	1	1
+435	deuparl-17	2,3	1	1	1	1	1	1	2	1
+436	deuparl-182	0,1	1	1	1	1	1	1	1	1
+437	deuparl-182	0,2	1	1	2	1	1	1	1	1
+438	deuparl-182	1,3	1	1	1	1	1	1	1	1
+439	deuparl-182	2,3	1	1	1	1	1	1	1	1
+440	deuparl-187	0,1	1	1	1	1	1	1	1	1
+441	deuparl-187	0,2	2	1	2	1	1	1	1	1
+442	deuparl-187	1,3	1	1	1	1	1	1	1	1
+443	deuparl-187	2,3	1	1	1	1	1	1	1	1
+444	deuparl-188	0,1	1	1	1	1	1	1	1	1
+445	deuparl-188	0,2	2	1	2	1	2	1	1	1
+446	deuparl-188	1,3	1	1	1	1	1	1	1	1
+447	deuparl-188	2,3	1	1	1	1	1	1	1	1
+448	deuparl-194	0,1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+449	deuparl-194	0,2	2	1	2	1	1	1	1	1
+450	deuparl-194	1,3	2	1	1	1	1	1	1	2
+451	deuparl-194	2,3	1	1	1	1	1	1	1	1
+452	deuparl-2064	0,1	1	1	1	1	2	1	1	1
+453	deuparl-2064	0,2	1	1	1	2	1	1	1	1
+454	deuparl-2064	1,3	1	1	1	1	1	1	1	1
+455	deuparl-2064	2,3	2	1	1	1	1	1	1	1
+456	deuparl-2181	0,1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1	2	1
+457	deuparl-2181	0,2	1	1	1	2	1	2	1	1
+458	deuparl-2181	1,3	2	1	2	2	2	1	1	1
+459	deuparl-2181	2,3	2	1	1	1	1	1	1	1
+460	deuparl-2183	0,1	1	1	1	1	2	1	2	1
+461	deuparl-2183	0,2	2	1	1	1	1	1	2	1
+462	deuparl-2183	1,3	1	2	2	2	1	2	2	2
+463	deuparl-2183	2,3	1	1	1	1	1	1	1	2
+464	deuparl-2187	0,2	1	1	1	2	1	1	1	1
+465	deuparl-2187	1,0	2	1	1	1	1	1	1	2
+466	deuparl-2187	1,3	1	1	1	1	1	1	1	1
+467	deuparl-2187	2,3	2	1	2	2	2	1	1	1
+468	deuparl-2202	0,2	1	1	1	1	2	1	1	1
+469	deuparl-2202	1,0	2	1	1	1	1	1	1	1
+470	deuparl-2202	1,3	2	1	2	1	1	1	1	1
+471	deuparl-2202	2,3	1	1	1	2	1	1	1	1
+472	deuparl-2208	0,2	1	1	1	1	1	1	1	1
+473	deuparl-2208	1,0	1	1	1	1	1	1	1	2
+474	deuparl-2208	1,3	2	2	1	1	1	1	1	1
+475	deuparl-2208	2,3	1	1	1	1	1	1	1	1
+476	deuparl-238	0,1	1	1	1	1	1	1	1	1
+477	deuparl-238	0,2	2	1	2	1	2	1	1	1
+478	deuparl-238	1,3	1	1	1	1	2	1	1	1
+479	deuparl-238	2,3	1	1	1	1	1	1	1	1
+480	deuparl-239	0,1	1	1	2	1	1	1	1	1
+481	deuparl-239	0,2	2	1	1	1	2	1	1	1
+482	deuparl-239	1,3	2	1	1	1	1	1	2	1
+483	deuparl-239	2,3	1	2	1	1 (Argument 1 is more convincing.)	1	1	1	2
+484	deuparl-241	0,1	1	1	2	1	1	2	2	2
+485	deuparl-241	0,2	1	1	2	1	2	1	1	1
+486	deuparl-241	1,3	1	1	1	1	1	2	1	1
+487	deuparl-241	2,3	1	2	1	1	1	1	1	2
+488	deuparl-252	0,1	1	1	1	1	1	1	2	1
+489	deuparl-252	0,2	1	1	2	1	2	1	1	1
+490	deuparl-252	1,3	1	1	2	1	2	1	1	1
+491	deuparl-252	2,3	1	1	1	2	1	1	1	1
+492	deuparl-267	0,2	2	1	2	2	2	2	2	1
+493	deuparl-267	1,0	1	1	1	1	1	1	1	1
+494	deuparl-267	1,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1 (Argument 1 is more convincing.)	1
+495	deuparl-267	2,3	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	1
+496	deuparl-27	0,2	1	1	2	1	2	1	1	1
+497	deuparl-27	1,0	1	1	1	1	1	1	1	1
+498	deuparl-27	1,3	1	1	1	1	1	1	1	1
+499	deuparl-27	2,3	1	1	1	1	1	1	1	1
+500	deuparl-296	0,1	1	1	1	1	1	1	1	1
+501	deuparl-296	0,2	1	1	1	1 (Argument 1 is more convincing.)	1	1	1	1
+502	deuparl-296	1,3	1	1	1	1	1	1	1	1
+503	deuparl-296	2,3	1	1	1	1	1	1	1	1
+504	deuparl-324	0,2	2	1	1	1	1	1	1	1
+505	deuparl-324	1,0	1	1	1	1	1	1	1	1
+506	deuparl-324	1,3	1	1	1	1	1	1	1	1
+507	deuparl-324	2,3	1	1	2	1	1	1	1	1
+508	deuparl-325	0,2	1	1	1	1	1	1	1	1
+509	deuparl-325	1,0	1	1	1	1	1	1	1	1
+510	deuparl-325	1,3	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1 (Argument 1 is more convincing.)	1	1
+511	deuparl-325	2,3	1	1	2	2	2	2	2	1
+512	deuparl-341	0,2	1	1	1	1	2	1	1	1
+513	deuparl-341	1,0	1	1	1	1	1	1	1	1
+514	deuparl-341	1,3	1	1	1	1	1	1	1	1
+515	deuparl-341	2,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	2
+516	deuparl-36	0,1	1	1	1	1	1	1	1	1
+517	deuparl-36	0,2	2	1	1	1	2	1	1	1
+518	deuparl-36	1,3	2	1	2	2	1	1	1	2
+519	deuparl-36	2,3	1	1	1	1	2	1	1	1
+520	deuparl-363	0,1	1	1	1	1	1	1	1	1
+521	deuparl-363	0,2	1	1	1	1	1	1	1	1
+522	deuparl-363	1,3	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	2
+523	deuparl-363	2,3	1	1	1	1	1	1	1	1
+524	deuparl-365	0,1	1	1	2	1	1	1	1	1
+525	deuparl-365	0,2	1	1	1	1	1	1	1	1
+526	deuparl-365	1,3	1	1	1	1	1	1	1	1
+527	deuparl-365	2,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+528	deuparl-390	0,1	1	1	2	1	1	1	1	1
+529	deuparl-390	0,2	2	1	2	1	2	1	1	1
+530	deuparl-390	1,3	1	1	2	1	1	1	1	2
+531	deuparl-390	2,3	2	1	1	1	1	1	1	1
+532	deuparl-405	0,2	2	1	2	1	1	1	1	1
+533	deuparl-405	1,0	1	1	1	1	2	1	1	1
+534	deuparl-405	1,3	1	1	2	1	2	1	1	1
+535	deuparl-405	2,3	1	1	1	1	1	1	1 (Argument 1 is more convincing.)	1
+536	deuparl-414	0,1	1	1	1	1	1	1	1	1
+537	deuparl-414	0,2	1	1	1	1	1	1	1	1
+538	deuparl-414	1,3	1	2	1	2	1	2	1	1 (Argument 1 is more convincing.)
+539	deuparl-414	2,3	1	1	1	1	1	1	2	2
+540	deuparl-420	0,1	1	1	1	1	1	1	1	1
+541	deuparl-420	0,2	2	1	2	1	1	1	2	1
+542	deuparl-420	1,3	1	2	1	1	1	1	1	2
+543	deuparl-420	2,3	1	1	1	1	1	1	1	2
+544	deuparl-429	0,1	1	1	1	1	1	1	1	1
+545	deuparl-429	0,2	1	1	1	1	1	1	1	1
+546	deuparl-429	1,3	1	1	1	1	1	1	1	1
+547	deuparl-429	2,3	2	2	1	1	2	1	1	1
+548	deuparl-433	0,2	1	1	1	1	1	1	1	1
+549	deuparl-433	1,0	2	1	1	1	1	1	1	1
+550	deuparl-433	1,3	1	1	2	1	2	1	1	1
+551	deuparl-433	2,3	2	1	2	1	2	2	1	1
+552	deuparl-442	0,1	1	1	1	1	1	1	1	1
+553	deuparl-442	0,2	1	1	2	1	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1
+554	deuparl-442	1,3	1	1	2	1	1	1	1	1
+555	deuparl-442	2,3	2	1	1	1	1	1	1	1
+556	deuparl-444	0,2	2	1	2	1	1	2	2	2
+557	deuparl-444	1,0	1	1	1	1	1	1	1	1
+558	deuparl-444	1,3	1 (Argument 1 evokes stronger emotions.)	1	1	1	2	1	2	1
+559	deuparl-444	2,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+560	deuparl-487	0,1	1	1	1	1	1	1	1	1
+561	deuparl-487	0,2	1	1	2	1	1	1	1	1
+562	deuparl-487	1,3	2	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+563	deuparl-487	2,3	1	1	1	1	2	1	1	2
+564	deuparl-498	0,1	1	1	1	1	1	1 (Argument 1 is more convincing.)	1	1
+565	deuparl-498	0,2	1	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 is more convincing.)	1
+566	deuparl-498	1,3	1	1	2	1	2	1	1	1
+567	deuparl-498	2,3	1	1	1	1	1	1	1	1
+568	deuparl-504	0,1	1	1	1	1	1	1	1	1
+569	deuparl-504	0,2	1	1	1	1	1	1	1	1
+570	deuparl-504	1,3	1	1	1	1	1	1	1	1
+571	deuparl-504	2,3	1	1	1	1	2	1	1	2
+572	deuparl-51	0,1	2	1	2	1	1	1	1	1
+573	deuparl-51	0,2	1	1	1	1	1	1	1	1
+574	deuparl-51	1,3	1	1	2	2	1	2	1	1
+575	deuparl-51	2,3	2	1	1	2	1	1	1	2
+576	deuparl-57	0,1	1	1	1	1	1	1	1	1
+577	deuparl-57	0,2	1	1	2	1	1	1	1	1
+578	deuparl-57	1,3	1	1	1	1	1	2	2	2
+579	deuparl-57	2,3	2	1	1	1	1	1	1	1
+580	deuparl-62	0,1	1	1	1	1	1	1	1	1
+581	deuparl-62	0,2	2	1	1	1	2	1	1	1
+582	deuparl-62	1,3	1	1	1	1	1	1	1	1
+583	deuparl-62	2,3	1	1	1	1	1	1	1	1
+584	deuparl-77	0,1	1	1	1	1	1	1	1	1
+585	deuparl-77	0,2	1	1	1	1	1	1	1	1
+586	deuparl-77	1,3	1	1	2	1	2	1	1	1
+587	deuparl-77	2,3	1	1	2	1	1	1	1	1
+588	deuparl-78	0,1	2	1	1	1	1	1	1	1
+589	deuparl-78	0,2	1	1	1	1	1	1	1	1
+590	deuparl-78	1,3	1	1	1	1	1	1	1	1
+591	deuparl-78	2,3	1	1	1	1	1	1	1	1
+592	deuparl-88	0,2	1	1	1	1	1	1	1	1
+593	deuparl-88	1,0	1	1	1	1	1	1	1	1
+594	deuparl-88	1,3	1	1	1	1	1	1	1	1
+595	deuparl-88	2,3	1	1	1	1	1	1	1	1
+596	deuparl-91	0,2	1	1	1	1	1	1	1	1
+597	deuparl-91	1,0	2	1	2	1	1	1	1	1
+598	deuparl-91	1,3	1	1	1	1	1	1	1	1
+599	deuparl-91	2,3	1	1	1	1	1	1	1	1
+600	hansard-1127	0,1	1	1	1	1	1	1	1	1
+601	hansard-1127	0,2	1	1	2	1	1	1	1	1
+602	hansard-1127	1,3	2	1	2	2	2	1	1	1
+603	hansard-1127	2,3	1	1	1	1	1	1	1	1
+604	hansard-1193	0,1	1	1	2	1	1	1	1	1
+605	hansard-1193	0,2	2	1	1	1	2	1	1	1
+606	hansard-1193	1,3	1	1	1	1	1	1	1	2
+607	hansard-1193	2,3	1	1	1	1	1	1	1	1 (Argument 1 is more convincing.)
+608	hansard-1352	0,1	1	1	1	1	1	1	1	1
+609	hansard-1352	0,2	1	1	1	1	1	1	1	1
+610	hansard-1352	1,3	1	1	1	1 (Argument 1 is more convincing.)	1	1	1	1
+611	hansard-1352	2,3	1	1	1	1	1	1	1	1
+612	hansard-1379	0,1	1	1	1	1	1	1	1	1
+613	hansard-1379	0,2	1	1	1	1	1	1	1	1
+614	hansard-1379	1,3	2	1	1	1	1	1	1	1
+615	hansard-1379	2,3	1	1	1	1	1	1	1	1
+616	hansard-1412	0,1	1	1	2	1	1	1	1	1
+617	hansard-1412	0,2	1	1	1	1	1	1	2	2
+618	hansard-1412	1,3	1	1	1	1	1	1	1	1
+619	hansard-1412	2,3	1	1	2	1	2	1	1	1
+620	hansard-1421	0,1	1	1	1	1	1	1	1	1
+621	hansard-1421	0,2	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+622	hansard-1421	1,3	2	1	1	1 (Argument 1 is more convincing.)	2	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)
+623	hansard-1421	2,3	2	2	2	2	2	2	1 (Argument 1 is more convincing.)	2
+624	hansard-1435	0,2	1	1	1	1	1	1	1	1
+625	hansard-1435	1,0	1	1	1	1	2	1	1	1
+626	hansard-1435	1,3	1	1	1	1	1	1	1	1
+627	hansard-1435	2,3	1	1	1	1	1	1	1	1
+628	hansard-1466	0,1	1	1	1	1	1	1	1	1
+629	hansard-1466	0,2	2	1	1	1	1	1	1	1
+630	hansard-1466	1,3	2	2	2	2	2	1	2	2
+631	hansard-1466	2,3	2	2	2	2	2	2	2	2
+632	hansard-1478	0,1	2	1	1	1	2	1	1	1
+633	hansard-1478	0,2	1	1	2	1	2	1	1	1
+634	hansard-1478	1,3	1	1	1	1	1	1	1 (Argument 1 is more convincing.)	1
+635	hansard-1478	2,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)
+636	hansard-199	0,1	2	1	1	2	1	1	1	2
+637	hansard-199	0,2	1	1	1	1	2	1	1	1
+638	hansard-199	1,3	1	1	1	1	1	1	1	1
+639	hansard-199	2,3	1	1	1	1	2	1	1	1
+640	hansard-2061	0,2	1	1	1	1	1	1	2	1
+641	hansard-2061	1,0	2	1	2	1	1	1	1	1
+642	hansard-2061	1,3	1	1	1	1	1	1	1	2
+643	hansard-2061	2,3	1	1	1	1	1	1	1	1
+644	hansard-208	0,1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	2	1 (Argument 1 is more convincing.)
+645	hansard-208	0,2	2	1	1	1	1	1	2	2
+646	hansard-208	1,3	1	1	1	1 (Argument 1 is more convincing.)	2	1	2	1 (Argument 1 is more convincing.)
+647	hansard-208	2,3	2	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	2	2	2	2
+648	hansard-220	0,1	1	1	1	1	1	1	1	1
+649	hansard-220	0,2	2	1	2	1 (Argument 1 is more convincing.)	2	1	1	1 (Argument 1 is more convincing.)
+650	hansard-220	1,3	2	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	2
+651	hansard-220	2,3	2	1	2	1	2	1	1	1
+652	hansard-2760	0,1	2	1	2	1	1	2	2	2
+653	hansard-2760	0,2	2	1	2	1	1	1	1	1
+654	hansard-2760	1,3	1	1	1	1	1	1	1	1
+655	hansard-2760	2,3	1	1	1	1	1	1	1	1
+656	hansard-2931	0,1	1	1	1	1	1	1	1	1
+657	hansard-2931	0,2	2	1	2	1	2	1	1	1
+658	hansard-2931	1,3	1	1	1	1	2	1	1	1
+659	hansard-2931	2,3	1	1	1	1	1	1	1	1
+660	hansard-3118	0,1	1	1	1	1	1	1 (Argument 1 is more convincing.)	1	1
+661	hansard-3118	0,2	1	1	1	1	1	1	1	1
+662	hansard-3118	1,3	2	1	2	2	2	1	2	2
+663	hansard-3118	2,3	1	1	1	1	1	1	1	1
+664	hansard-3208	0,1	2	1	1	2	2	2	2	2
+665	hansard-3208	0,2	2	1	1	2	1	2	2	1
+666	hansard-3208	1,3	1	1	2	1	2	1	1	1
+667	hansard-3208	2,3	1	1	1	1	1	1	1	1
+668	hansard-3211	0,2	2	1	1	1	1	1	1	1
+669	hansard-3211	1,0	2	1	1	1	2	1	1	1
+670	hansard-3211	1,3	1	1	1	1	1	1	2	1
+671	hansard-3211	2,3	1	1	1	1	1	1	1	1
+672	hansard-3228	0,1	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+673	hansard-3228	0,2	1	1	2	1	2	1	1	2
+674	hansard-3228	1,3	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+675	hansard-3228	2,3	1	1	1	2	1	2	1	1 (Argument 1 is more convincing.)
+676	hansard-3431	0,2	1	1	2	2	2	1	2	1
+677	hansard-3431	1,0	1	1	1	1	1	1	1	1
+678	hansard-3431	1,3	2	1	2	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+679	hansard-3431	2,3	1	1 (Argument 1 is more convincing.)	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+680	hansard-3480	0,2	2	1	1	1	2	1	1	1
+681	hansard-3480	1,0	2	1	1	1	1	1	1	1
+682	hansard-3480	1,3	1	1	1	1	1	1	1	1
+683	hansard-3480	2,3	1	1	1	1	1	1	1	1
+684	hansard-3690	0,1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1	1	1
+685	hansard-3690	0,2	2	1	2	1	2	1	1	1
+686	hansard-3690	1,3	1	1	1	1	1	1	1	1
+687	hansard-3690	2,3	1	1	1	1	1	1	1	2
+688	hansard-3875	0,2	2	1	2	1	2	1	1	1
+689	hansard-3875	1,0	2	1	2	1	2	1	1	1
+690	hansard-3875	1,3	2	1	2	1	1	1	1	1
+691	hansard-3875	2,3	2	1 (Argument 1 is more convincing.)	2	1	1 (Argument 1 evokes stronger emotions.)	1	2	2
+692	hansard-3876	0,1	2	1	2	1	2	1	1	1
+693	hansard-3876	0,2	2	1	2	1	1	1	1	1
+694	hansard-3876	1,3	2	1	2	1	2	2	1	1
+695	hansard-3876	2,3	1	1	1	1	1	1	1	1
+696	hansard-4072	0,2	2	1	2	1	2	1	1	1
+697	hansard-4072	1,0	1	1	1	1	2	1	1	1
+698	hansard-4072	1,3	2	1	1	1	1	1	1	1 (Argument 1 is more convincing.)
+699	hansard-4072	2,3	2	1	1	1	2	1	1	1
+700	hansard-4426	0,2	2	2	2	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	2	2
+701	hansard-4426	1,0	1	1	1	1	2	1	1	1
+702	hansard-4426	1,3	1	1	1	1	1	1	1	1
+703	hansard-4426	2,3	1	1	1	1	1	1	1	1
+704	hansard-476	0,1	1 (Argument 1 evokes stronger emotions.)	1	2	1	2	1	1	2
+705	hansard-476	0,2	1	1	1	1	2	1	1	2
+706	hansard-476	1,3	1	1	1	2	2	1	2	2
+707	hansard-476	2,3	2	1	2	1	2	2	2	2
+708	hansard-4985	0,1	2	1	2	2	2	2	1	2
+709	hansard-4985	0,2	2	1	2	2	2	2	2	1
+710	hansard-4985	1,3	2	1	2	1 (Argument 1 is more convincing.)	2	1	1	1
+711	hansard-4985	2,3	1	1	1	1	1	1	1	1 (Argument 1 is more convincing.)
+712	hansard-5094	0,2	1	1	1	1	1	1	1	1
+713	hansard-5094	1,0	1	1	1	1	1	1	1	1
+714	hansard-5094	1,3	1	1	1	1	1	1	1	1
+715	hansard-5094	2,3	1	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+716	hansard-5142	0,1	1	1	1	1	1	1	1	1
+717	hansard-5142	0,2	1	1	1	1	2	1	2	1
+718	hansard-5142	1,3	1	1	2	1	1	2	1	1
+719	hansard-5142	2,3	2	1	2	1	2	1	1	1
+720	hansard-5208	0,1	1	1	1	1	1	1	1	1
+721	hansard-5208	0,2	1	1	1	1	1	1	1	1
+722	hansard-5208	1,3	2	1 (Argument 1 is more convincing.)	2	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	2
+723	hansard-5208	2,3	2	1	2	1	1	1	1	2
+724	hansard-5282	0,1	1	1	2	1	1	1	1	1
+725	hansard-5282	0,2	1	1	1	1	1	1	1	1
+726	hansard-5282	1,3	1	1	1	1	1	1	1	1
+727	hansard-5282	2,3	1	1	1	1	1	1	1	1
+728	hansard-5298	0,1	2	1	1	1	1	1	1	1
+729	hansard-5298	0,2	1	1	1	1	1	1	1	1 (Argument 1 is more convincing.)
+730	hansard-5298	1,3	2	1	1	1	1	1	1	1
+731	hansard-5298	2,3	2	1	2	2	1	1	2	1
+732	hansard-5313	0,1	2	1	1	1	1	1	1	1
+733	hansard-5313	0,2	1	1	1	1	1	1	1	1
+734	hansard-5313	1,3	1	1	1	1	1	1 (Argument 1 is more convincing.)	1	1
+735	hansard-5313	2,3	1	2	1	1 (Argument 1 is more convincing.)	1	1	1	1
+736	hansard-5334	0,2	1	2	1	1	1	1	1	1
+737	hansard-5334	1,0	1	2	1	2	1	1	1	1 (Argument 1 is more convincing.)
+738	hansard-5334	1,3	1	1	1	1	1	1	1	1
+739	hansard-5334	2,3	2	1	1	1	1	1	1	1
+740	hansard-5338	0,2	2	1	2	1	1	1	1	1
+741	hansard-5338	1,0	1	1	1	1	1	1	2	1
+742	hansard-5338	1,3	1	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	2	1	1 (Argument 1 is more convincing.)	1
+743	hansard-5338	2,3	1	1	1	1	1	1	1	1
+744	hansard-5697	0,2	2	1	2	2	2	2	2	1
+745	hansard-5697	1,0	1	1	1	1	2	1	1	1
+746	hansard-5697	1,3	1	1	2	1	1	1	1	1
+747	hansard-5697	2,3	1	1	1	1	1	1	1	1
+748	hansard-6014	0,2	1	1	2	1	2	1	1	1
+749	hansard-6014	1,0	2	1	2	1	2	1	1	1
+750	hansard-6014	1,3	1	1	1	1	1	1	1	1
+751	hansard-6014	2,3	1	1	1	1	1	1	1	2
+752	hansard-6157	0,2	1	1	1	2	1	1	1	1
+753	hansard-6157	1,0	1	1	1	1	1	1	1	1
+754	hansard-6157	1,3	1	1	1	1 (Argument 1 is more convincing.)	2	1	1	1
+755	hansard-6157	2,3	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1	1	1
+756	hansard-6200	0,1	1	1	1	1	1	1	1	1
+757	hansard-6200	0,2	1	1	2	1	2	1	1	2
+758	hansard-6200	1,3	2	2	1	2	1	1	1	1
+759	hansard-6200	2,3	2	1	1	2	1	1	1	1
+760	hansard-6204	0,1	1	1	1	1	1	1	1	1
+761	hansard-6204	0,2	2	1	2	1	1	1	1	1
+762	hansard-6204	1,3	1	1	1	1	1	2	1	1
+763	hansard-6204	2,3	1	1	1	1	1	1	1	1
+764	hansard-720	0,2	1	1	1	1	1	1	1	2
+765	hansard-720	1,0	2	1	2	1	2	1	2	2
+766	hansard-720	1,3	2	2	2	2	2	1	1	2
+767	hansard-720	2,3	1	1	1	2	1	2	2	1
+768	hansard-774	0,1	2	1	1	1	1	2	1	1
+769	hansard-774	0,2	1	1	1	1	1	1	1	1
+770	hansard-774	1,3	2	2	2	2	2	1	1	1
+771	hansard-774	2,3	2	1	2	2	1	2	2	1
+772	hansard-775	0,1	2	1	1	1	1	1	1	1
+773	hansard-775	0,2	2	1	2	1	2	1	2	1
+774	hansard-775	1,3	1	2	1	2	1	2	2	2
+775	hansard-775	2,3	1	2	2	1	2	2	1	1 (Argument 1 is more convincing.)
+776	hansard-778	0,1	1	1	2	1	1	1	1	2
+777	hansard-778	0,2	1	1	2	1	2	2	1	1
+778	hansard-778	1,3	1	2	1	2	2	2	1	2
+779	hansard-778	2,3	1	2	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 is more convincing.)	1
+780	hansard-780	0,1	2	2	2	2	2	2	2	2
+781	hansard-780	0,2	1	2	2	1	2	1	2	1
+782	hansard-780	1,3	2	2	1	Argument 1 is more convincing.	1	Argument 1	Argument 1	Argument 1
+783	hansard-780	2,3	2	1	1	2	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	2	1
+784	hansard-797	0,1	2	2	2	1	2	2	1	2
+785	hansard-797	0,2	1	1	1	1 (Argument 1 is more convincing.)	2	1	1	2
+786	hansard-797	1,3	1	1	1	1	2	2	1	1
+787	hansard-797	2,3	1	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)
+788	hansard-914	0,2	2	1	2	1	1	1	1	1
+789	hansard-914	1,0	2	1	1	1	1	1	1	1
+790	hansard-914	1,3	1	1	1	1	1	1	1	1
+791	hansard-914	2,3	2	1	1	1	2	1	1	1
+792	hansard-924	0,2	1	1	1	1	1	1	1	1
+793	hansard-924	1,0	2	1	2	1	2	1	1	1 (Argument 1 is more convincing.)
+794	hansard-924	1,3	2	1	1	2	1	1	2	1
+795	hansard-924	2,3	2	1	1	1	1	1	1	1
+796	hansard-929	0,2	1	1	2	1	1	1	1	1
+797	hansard-929	1,0	2	1 (Argument 1 is more convincing.)	1	1	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)
+798	hansard-929	1,3	1	2	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	2	2	1
+799	hansard-929	2,3	1	1	1	1 (Argument 1 is more convincing.)	1	1	1	1
+800	hansard_bill-1	1,0	1	1	1	1	1	1	1	1
+801	hansard_bill-1	2,0	1	1	1	1	1	1	1	1
+802	hansard_bill-1	3,1	1	1	1	1	1	1	1	1
+803	hansard_bill-1	3,2	1	1	2	1	2	1	1	1
+804	hansard_bill-1009	1,0	2	1	1	1	1	1	1	1
+805	hansard_bill-1009	2,0	1	1	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1
+806	hansard_bill-1009	3,1	2	1	1	1	1	1	1	1
+807	hansard_bill-1009	3,2	1	1	2	1	2	1	1	1
+808	hansard_bill-1010	0,1	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1	1	1
+809	hansard_bill-1010	2,0	1	1	1	1	1	1	1	1
+810	hansard_bill-1010	3,1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	1	1 (Argument 1 is more convincing.)	1	1
+811	hansard_bill-1010	3,2	1	1	1	1	1	1	1	1
+812	hansard_bill-1022	0,1	1	1	1	1	1	1	1	1
+813	hansard_bill-1022	0,2	2	1	2	1	1	1	1	1
+814	hansard_bill-1022	1,3	2	1	2	2	2	1	2	1
+815	hansard_bill-1022	3,2	1	1	2	1	2	1	1	1
+816	hansard_bill-1023	0,1	1	1	2	1	1 (Argument 1 evokes stronger emotions.)	1	1	1
+817	hansard_bill-1023	1,3	2	1	2	1	2	1	1	1
+818	hansard_bill-1023	2,0	1	1	1	1	1	1	1	1
+819	hansard_bill-1023	3,2	1	1	2	1	2	1	1	1
+820	hansard_bill-1035	0,1	2	1	1	1	2	1	1	1
+821	hansard_bill-1035	1,3	1	1	1	1	1	1	1	1
+822	hansard_bill-1035	2,0	1	2	1	2	2	1	1	1
+823	hansard_bill-1035	3,2	2	1	2	1	1	1	1	1
+824	hansard_bill-1036	0,1	1	1	1	1 (Argument 1 is more convincing.)	1	1	1 (Argument 1 is more convincing.)	1
+825	hansard_bill-1036	0,2	1	1	1	1	1	1	1	1
+826	hansard_bill-1036	3,1	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1	1	1
+827	hansard_bill-1036	3,2	1	1	1	1	1	1	1	1
+828	hansard_bill-1055	0,1	2	1	1	1	1	2	2	1
+829	hansard_bill-1055	0,2	1	1	1	1	2	1	1	1
+830	hansard_bill-1055	1,3	2	1 (Argument 1 is more convincing.)	2	2	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)
+831	hansard_bill-1055	3,2	1	1	1	1	2	1	1	1
+832	hansard_bill-1076	0,2	2	1	2	1	2	1	1	1
+833	hansard_bill-1076	1,0	1	1	1	1	1	1	1	1
+834	hansard_bill-1076	1,3	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	2	1	1	2	2
+835	hansard_bill-1076	2,3	1	1	1	1	1	1	1	1
+836	hansard_bill-1089	1,0	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	2	1
+837	hansard_bill-1089	1,3	1	1	2	1	1	1	2	1
+838	hansard_bill-1089	2,0	2	1	1	2	2	1	2	1
+839	hansard_bill-1089	3,2	2	1	1	1	2	1	1	1
+840	hansard_bill-110	0,1	1	1	2	1	1	1	1	1
+841	hansard_bill-110	0,2	1 (Argument 1 evokes stronger emotions.)	1	1	1	2	1	1	1
+842	hansard_bill-110	2,3	1	1	1	1	1	1	1	1
+843	hansard_bill-110	3,1	1	1	1	1	1	1	1	1
+844	hansard_bill-1102	1,0	1	1	1	1	1	1	1	1
+845	hansard_bill-1102	1,3	1	1	1	1	1	1	1	1 (Argument 1 is more convincing.)
+846	hansard_bill-1102	2,0	1	1	1	1	1	1	1	1
+847	hansard_bill-1102	3,2	2	1	1	1	2	1	1	1
+848	hansard_bill-1123	0,1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1 (Argument 1 evokes stronger emotions.)	1	1 (Argument 1 evokes stronger emotions.)	1	2	2
+849	hansard_bill-1123	1,3	2	1 (Argument 1 is more convincing.)	1	1	2	1 (Argument 1 is more convincing.)	2	1
+850	hansard_bill-1123	2,0	1	1	2	1	1	1	1	1
+851	hansard_bill-1123	3,2	2	1	1	1	2	1	1	1
+852	hansard_bill-1135	1,0	2	1	2	1	1	1	1	1
+853	hansard_bill-1135	1,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+854	hansard_bill-1135	2,0	1	1	1	1	1	1	1	1
+855	hansard_bill-1135	2,3	1	1	1	1	1	1	1	1
+856	hansard_bill-1161	0,1	2	1	1	1	1	1	1	1
+857	hansard_bill-1161	1,3	1	1 (Argument 1 is more convincing.)	1	1	1	1	1	2
+858	hansard_bill-1161	2,0	1	1	1	1	1	1	1	1
+859	hansard_bill-1161	3,2	2	2	2	1	2	1 (Argument 1 is more convincing.)	2	1
+860	hansard_bill-1189	1,0	1	1	1	1	1	1	1	1
+861	hansard_bill-1189	1,3	1	1	1	1	1	1	1	1
+862	hansard_bill-1189	2,0	1	1	2	1	1	1	1	1
+863	hansard_bill-1189	2,3	1	1	1	1	1	1	1	1
+864	hansard_bill-1202	0,1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1	1	1
+865	hansard_bill-1202	0,2	2	2	2	2	2	1	1	1
+866	hansard_bill-1202	3,1	1	1	1	1	1	1	1	1
+867	hansard_bill-1202	3,2	2	1	2	1	1	1	2	1
+868	hansard_bill-1215	0,1	1	1	1	1	1	1	1	1
+869	hansard_bill-1215	2,0	2	1	1	1	1	1	1	1
+870	hansard_bill-1215	2,3	1	1	1	1	1	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)	1 (Argument 1 is more convincing.)
+871	hansard_bill-1215	3,1	1	1	2	1	2	1	1	1
+872	hansard_bill-1228	0,2	1	2	2	2	2	2	2	2
+873	hansard_bill-1228	1,0	1	1	1	1	1	1	1	1
+874	hansard_bill-1228	2,3	2	1	1	1	1	1	1	1
+875	hansard_bill-1228	3,1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	2	1
+876	hansard_bill-1241	1,0	1	1	1	1	1	1	1	1
+877	hansard_bill-1241	1,3	1	1	1	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1
+878	hansard_bill-1241	2,0	1	1	1	1	1	1	1	1
+879	hansard_bill-1241	2,3	1	1	1	1	1	1	1	1
+880	hansard_bill-125	0,2	2	2	2	1	2	1	2	2
+881	hansard_bill-125	1,0	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1	1	1
+882	hansard_bill-125	1,3	1	1	1	1	1	1	1	1
+883	hansard_bill-125	2,3	1	1	1	1	1	1	2	1
+884	hansard_bill-1254	0,2	1	1	1	1	2	1	2	2
+885	hansard_bill-1254	1,0	2	1	1	1	1	1	1	1
+886	hansard_bill-1254	1,3	2	1	1	1	1	1	1	1 (Argument 1 is more convincing.)
+887	hansard_bill-1254	2,3	1	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	1	1 (Argument 1 is more convincing.)	1	1
+888	hansard_bill-126	0,2	2	1	2	1	2	1	2	1
+889	hansard_bill-126	1,0	1	1	1	1	1	1	1	1
+890	hansard_bill-126	1,3	1	1	1	1	1	1	1	1
+891	hansard_bill-126	2,3	1	1	1	1	1	1	1	1
+892	hansard_bill-1266	0,2	2	1	2	2	2	1	2	2
+893	hansard_bill-1266	1,0	1	1	1	1	1	1	1	1
+894	hansard_bill-1266	3,1	1	1	2	1	1	1	1	2
+895	hansard_bill-1266	3,2	2	1	1	1	1	1	2	2
+896	hansard_bill-13	0,1	2	2	2	1	1	1	2	1
+897	hansard_bill-13	0,2	1	1	1	1	2	1	2	1
+898	hansard_bill-13	2,3	1	1	1	1	1	1	1	1
+899	hansard_bill-13	3,1	2	2	2	1	2	2	2	1
+900	hansard_bill-130	1,0	2	1	2	1	2	1	2	1
+901	hansard_bill-130	2,0	1	1	1	1	1	1	1	1
+902	hansard_bill-130	3,1	1	1	2	1	1 (Argument 1 evokes stronger emotions.)	1 (Argument 1 is more convincing.)	2	2
+903	hansard_bill-130	3,2	1	1	1	1	1	1	1	1
+904	hansard_bill-223	0,1	1	1	1	1	1	1	1	1
+905	hansard_bill-223	0,2	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+906	hansard_bill-223	2,3	1	2	2	2	1	2	2	2
+907	hansard_bill-223	3,1	1	1	1	1	1	1	1	1
+908	hansard_bill-226	0,1	1	1	1	1	1	1	1	1
+909	hansard_bill-226	0,2	1	1	2	1	2	1	1	1
+910	hansard_bill-226	3,1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1
+911	hansard_bill-226	3,2	1	1	2	1	1	1	1	1
+912	hansard_bill-238	0,1	1	1	1	1	1	1	1	1
+913	hansard_bill-238	0,2	1	1	1	1	1	1	1	1
+914	hansard_bill-238	3,1	1	1	1	1	1	1	1	1
+915	hansard_bill-238	3,2	1	1	1	1	1	1	1	1
+916	hansard_bill-25	0,1	1	1	1	1	1	1 (Argument 1 is more convincing.)	1	2
+917	hansard_bill-25	0,2	2	1	2	1	2	1	1	2
+918	hansard_bill-25	1,3	1	1	1	1	1	1	1	1
+919	hansard_bill-25	3,2	2	1	1	1	2	1	1	1
+920	hansard_bill-281	0,1	1	1	1	1	1	1	1	1
+921	hansard_bill-281	2,0	1	1	1	1	1	1	1	1
+922	hansard_bill-281	3,1	1	1	1	1	1	1	1	1
+923	hansard_bill-281	3,2	1	1	2	1	1	1	1	1
+924	hansard_bill-282	1,0	1	1	1	1	1	1	1	1
+925	hansard_bill-282	1,3	1	1	1	1	1	2	2	1
+926	hansard_bill-282	2,0	1	1	1	1	1	1	1	1
+927	hansard_bill-282	2,3	1	2	1	2	1	1	2	2
+928	hansard_bill-315	0,1	1	1	1	1	1	1	1	1
+929	hansard_bill-315	1,3	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	2	2
+930	hansard_bill-315	2,0	1	1	1	1	1	1	1	1
+931	hansard_bill-315	3,2	1	1	1	1	1	1	1	1
+932	hansard_bill-36	0,1	1	1	1	1	1	1	1	1
+933	hansard_bill-36	0,2	2	1	2	1	2	1	1	1
+934	hansard_bill-36	1,3	1	1	1	1	1	2	1	1 (Argument 1 is more convincing.)
+935	hansard_bill-36	2,3	1	1	2	1	2	1	1	1
+936	hansard_bill-37	1,0	1	1	1	1	1	1	1	1
+937	hansard_bill-37	2,0	1	1	1	1	1	1	1	1
+938	hansard_bill-37	3,1	2	1	1	1	2	2	2	2
+939	hansard_bill-37	3,2	2	1	2	1	2	1	2	1
+940	hansard_bill-418	0,1	1	1	1	1	1	1	1	1 (Argument 1 is more convincing.)
+941	hansard_bill-418	0,2	1	1	1	1	1	1	1	1
+942	hansard_bill-418	1,3	2	2	2	2	1	2	2	2
+943	hansard_bill-418	2,3	1	2	2	2	1	2	1	2
+944	hansard_bill-47	1,0	1	2	1	1	1	1	1	1
+945	hansard_bill-47	1,3	1	2	1	1	1	1	1	2
+946	hansard_bill-47	2,0	1	1	1	1	1	1	2	2
+947	hansard_bill-47	3,2	2	1	2	2	1	2	1	1
+948	hansard_bill-477	0,1	1	1	1	1	1	1	1	1
+949	hansard_bill-477	1,3	1	1	1	1	1	1	1	1 (Argument 1 is more convincing.)
+950	hansard_bill-477	2,0	1	1	1	1	1	1	1	1
+951	hansard_bill-477	2,3	1	1	1	1	1	1	1	1
+952	hansard_bill-499	0,1	1	1	1	1	1	1	1	1
+953	hansard_bill-499	1,3	1	1	1	1	1	1	1	1
+954	hansard_bill-499	2,0	1	1	1	1	1	1	1	1
+955	hansard_bill-499	2,3	2	1	2	1	2	1	1	1
+956	hansard_bill-523	1,0	1	1	2	1	1	1	1	1
+957	hansard_bill-523	2,0	1	1	1	1	1	1	1	1
+958	hansard_bill-523	2,3	1	1	1	1	2	1	1	1
+959	hansard_bill-523	3,1	1	1	1	1	1	1	1	1
+960	hansard_bill-567	0,2	2	1	2	1	2	2	2	1
+961	hansard_bill-567	1,0	1	1	1	1	1	1	1	1
+962	hansard_bill-567	1,3	1	1	1	1	1	1	1	1
+963	hansard_bill-567	2,3	1	1	1	1 (Argument 1 is more convincing.)	1	1	1	1
+964	hansard_bill-705	0,2	2	1	1	1	1	1	1	1
+965	hansard_bill-705	1,0	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	1	1	2
+966	hansard_bill-705	1,3	2	2	2	2	2	2	1	1
+967	hansard_bill-705	3,2	2	1	2	1	1	1	1	1
+968	hansard_bill-708	0,1	2	1	2	2	2	1	1	2
+969	hansard_bill-708	2,0	1	1	1	1	1	1 (Argument 1 is more convincing.)	1	1
+970	hansard_bill-708	2,3	1	1	1	1	1	1	1	2
+971	hansard_bill-708	3,1	2	2	2	1	2	2	2	1
+972	hansard_bill-825	0,1	2	1	2	1	2	1	1	1
+973	hansard_bill-825	2,0	1	1	1	1	1	1	1	1
+974	hansard_bill-825	3,1	1	1	1	1	2	2	1	1
+975	hansard_bill-825	3,2	2	2	2	2	2	2	2	2
+976	hansard_bill-85	1,0	1	1	1	1	2	1	1	1
+977	hansard_bill-85	1,3	1	1	1	1	1	1	1	1
+978	hansard_bill-85	2,0	2	1	1	1	1	1	1	1
+979	hansard_bill-85	2,3	1	1	1	1	1	1	1	1
+980	hansard_bill-850	1,0	2	2	2	1	2	2	2	2
+981	hansard_bill-850	1,3	2	1	2	1 (Argument 1 is more convincing.)	1	2	1	2
+982	hansard_bill-850	2,0	2	1	2	2	1	2	2	2
+983	hansard_bill-850	3,2	2	1	2	1	2	1	2	1
+984	hansard_bill-951	0,1	1 (Argument 1 evokes stronger emotions.)	1	2	2	1	2	2	2
+985	hansard_bill-951	1,3	1	1	1	1	2	1	1	1
+986	hansard_bill-951	2,0	1	1	2	1	1	1	1	1
+987	hansard_bill-951	2,3	2	1	2	1	2	1	2	2
+988	hansard_bill-983	0,1	2	1	1	1	1	1	1	1
+989	hansard_bill-983	0,2	1	1	1	1	1	1	1	1
+990	hansard_bill-983	3,1	1	1	2	1	1	1	1	1
+991	hansard_bill-983	3,2	1	1	1	1	1	1	1	1
+992	hansard_bill-984	0,1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1	2
+993	hansard_bill-984	0,2	2	1	2	1	2	1	1	1
+994	hansard_bill-984	3,1	2	1	1	1	1	1	1	1
+995	hansard_bill-984	3,2	1	1	1	1	1	1	1	1
+996	hansard_bill-997	0,1	1 (Argument 1 evokes stronger emotions.)	1	1	1	1 (Argument 1 evokes stronger emotions.)	1	1	2
+997	hansard_bill-997	0,2	2	1	1	1	1	2	1	1
+998	hansard_bill-997	1,3	1	1	2	1	1	1	1	1
+999	hansard_bill-997	3,2	2	1	1	1	2	2	1	1
