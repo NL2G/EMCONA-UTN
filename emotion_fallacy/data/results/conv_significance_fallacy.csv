@@ -1,0 +1,31 @@
+cat1,cat2,difference,p-value,*
+ad hominem,ad populum,smaller,0.00010521351764458574,***
+ad hominem,circular claim,smaller,0.032127704376591106,**
+ad hominem,false causality,larger,0.8729808790218989,
+ad hominem,faulty generalization,larger,0.25424712820982126,
+ad hominem,none,smaller,3.0392936213375987e-30,***
+ad populum,ad hominem,larger,0.00010521351764458574,***
+ad populum,circular claim,larger,0.24616973657179425,
+ad populum,false causality,larger,1.1770688161953473e-06,***
+ad populum,faulty generalization,larger,5.577577474403046e-09,***
+ad populum,none,smaller,2.2011141619715994e-22,***
+circular claim,ad hominem,larger,0.032127704376591106,**
+circular claim,ad populum,smaller,0.24616973657179425,
+circular claim,false causality,larger,0.0073611874325490555,***
+circular claim,faulty generalization,larger,0.0004218289950971682,***
+circular claim,none,smaller,3.1052484870585108e-18,***
+false causality,ad hominem,smaller,0.8729808790218989,
+false causality,ad populum,smaller,1.1770688161953473e-06,***
+false causality,circular claim,smaller,0.0073611874325490555,***
+false causality,faulty generalization,larger,0.2346579249446258,
+false causality,none,smaller,1.1661281498100334e-47,***
+faulty generalization,ad hominem,smaller,0.25424712820982126,
+faulty generalization,ad populum,smaller,5.577577474403046e-09,***
+faulty generalization,circular claim,smaller,0.0004218289950971682,***
+faulty generalization,false causality,smaller,0.2346579249446258,
+faulty generalization,none,smaller,6.074196213400843e-49,***
+none,ad hominem,larger,3.0392936213375987e-30,***
+none,ad populum,larger,2.2011141619715994e-22,***
+none,circular claim,larger,3.1052484870585108e-18,***
+none,false causality,larger,1.1661281498100334e-47,***
+none,faulty generalization,larger,6.074196213400843e-49,***

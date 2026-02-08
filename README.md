@@ -1,10 +1,11 @@
 # EMCONA-UTN
 This repository provides the code and data associated with our papers from the DFG-funded project, EMCONA (The Interplay of Emotions and Convincingness in Arguments), conducted at UTN (the University of Technology Nuremberg).
 
-## Publications
+## Publications 
 [10/2025] Our new paper about emotions, convincingness, and logical fallacies is now on arXiv 🥳
+[01/2026] Accepted at EACL 2026 Main (oral)!
 - Paper: [Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection](https://arxiv.org/abs/2510.09695)
-- Code + Data: to be updated
+- Code + Data: [/emotion_fallacy](/emotion_fallacy)
 - Abstract:
   > Logical fallacies are common in public communication and can mislead audiences; fallacious arguments may still appear convincing despite lacking soundness, because convincingness is inherently subjective. We present the first computational study of how emotional framing interacts with fallacies and convincingness, using large language models (LLMs) to systematically change emotional appeals in fallacious arguments. We benchmark eight LLMs on injecting emotional appeal into fallacious arguments while preserving their logical structures, then use the best models to generate stimuli for a human study. Our results show that LLM-driven emotional framing reduces human fallacy detection in F1 by 14.5% on average. Humans perform better in fallacy detection when perceiving enjoyment than fear or sadness, and these three emotions also correlate with significantly higher convincingness compared to neutral or other emotion states. Our work has implications for AI-driven emotional manipulation in the context of fallacious argumentation.
 

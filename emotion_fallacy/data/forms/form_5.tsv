@@ -1,0 +1,301 @@
+Question	Description	Type	Required	Option 1	Option 2	Option 3	Option 4	Option 5	Option 6	Option_7
+Argument 1	"At soccer practice, Willeidy tells Aida, ""Pace's soccer team was losing until I bought new shoes. We have not lost a game since I got my lucky shoes!""
+
+Claim: New shoes caused soccer team's winning streak."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 2	" A solar flare erupted from the sun three days ago, and my laptop died this morning. I hadn’t heard any warnings about the flare’s effects, and now my device is completely unresponsive to my touch. Solar flares are very dangerous for computers.
+
+Claim: Solar flares are very dangerous for computers."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 3	" ""Everybody's doing it, so it must be a good thing to do. Last summer, a whole town followed a harmful trend of littering, and the beaches they once loved became a wasteland where children now play among broken glass.""
+
+Claim: It must be a good thing to do.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 4	" ""I'm gonna get an iPhone because it's nauseating how everyone else has one and they're utterly superficial.""
+
+Claim: Getting an iPhone is desirable."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 5	" ""You're not feeling well because you use your phone so much. Picture the screen lighting up with strangers’ laughter and vacations, while your room stays still, the clock ticking louder than any conversation.""
+
+Claim: Excessive phone use causes poor health.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 6	"""Everybody is late coming back from lunch, so it shouldn't matter if I'm late.""
+
+Claim: It shouldn't matter if I'm late.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 7	" All the terrifying guys at school are dyeing their hair purple, so you should, too!
+
+Claim: You should dye your hair purple."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 8	"Allowing gay marriage puts us on the way to polygamy and bestiality
+
+Claim: Allowing gay marriage leads to polygamy and bestiality.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 9	" ""My delightful roommate said her philosophy class was hard, and the one I'm in is just as engaging. All philosophy classes must be fascinatingly hard!”
+
+Claim: All philosophy classes must be hard."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 10	"""We've got to stop them from banning poetry. Once they start banning one form of literature, they will never stop. Next thing you know, they will be burning all the books!"" Ammar demanded.
+
+Claim: We must stop banning poetry.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 11	"Alley ate a slice of pizza for dinner and a few hours later she had a fever. Therefore, pizza causes fevers.
+
+Claim: Pizza causes fevers.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 12	"After years of ignoring God, people have a hard time realizing what is right and what is wrong, what is good and what is bad.
+
+Claim: Ignoring God causes moral confusion."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 13	" ""I think that the use of marijuana as a perilous medical treatment shouldn't even be considered. If we make hazardous drugs legal in a few cases, then we might eventually have to completely legalize them - which is even more alarming than Proposition 215. If we want to help people out by letting them do risky things, then let's just get rid of all our protective laws.""
+
+Claim: Legalizing medical marijuana could lead to full drug legalization."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 14	" Allowing gay marriage paves the way for disgusting practices like abhorrent acts such as polygamy and bestiality.
+
+Claim: Allowing gay marriage leads to polygamy and bestiality.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 15	" According to the heartbreaking university brochure, the majors with the most students are Economics and Computer Science. Therefore, you should declare one of these majors if you want to have a stable career.
+
+Claim: Declare Economics or Computer Science for a successful career.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 16	" Americans should give money to charity because it is the right thing to do. Imagine if you or someone you love was just one missed paycheck away from losing everything—charities are often the only safety net people have.
+
+Claim: Americans should give money to charity."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 17	" ""Annie must like Starbucks because all girls like Starbucks."" The trash can near the Starbucks entrance is filled with crumpled cups and spilled coffee, like a messy, sticky graveyard of overpriced drinks.
+
+Claim: Annie must like Starbucks."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 18	" The BP Oil rig exploded causing many marine mammals to die. This illustrates that the BP oil rig was bad and caused animals to die. As the dark oil spread across the water, it formed a vast, suffocating blanket that wrapped around the dying creatures.
+
+Claim: The BP oil rig was bad and caused animal deaths."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 19	"All my friends are doing a low carb diet. That must be the only way to lose weight so I will do it too.
+
+Claim: Low carb diet is the only way to lose weight.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 20	" Allowing gay marriage puts us on the way to polygamy and bestiality. The very ground beneath us trembles with the weight of such a decision.
+
+Claim: Allowing gay marriage leads to polygamy and bestiality.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 21	"""Since 88% of people polled believe in UFOs, they must exist.”
+
+Claim: UFOs must exist.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 22	" ""Everybody's doing it, so it must be a good thing to do. No one expected the viral dance challenge to accidentally revive a forgotten tradition that had been lost for generations.""
+
+Claim: It must be a good thing to do.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 23	" At soccer practice, Willeidy tells Aida, ""Pace's soccer team was losing until I bought new shoes. It was as if the dark clouds of defeat suddenly parted to reveal a golden sunrise of victory. We have not lost a game since I got my lucky shoes!""
+
+Claim: New shoes caused soccer team's winning streak."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 24	" ""Everyone should like coffee: 95% of teachers do! Imagine the countless late nights they spend grading papers, fueled by nothing but their passion for education and a cup of coffee.""
+
+Claim: Everyone should like coffee  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 25	" A politician arguing that his opponent cannot possibly be a good choice for women because he has been married and divorced five times, but it makes me think of a happy couple I know who have been married for 50 years and are still going strong.
+
+Claim: Opponent is not a good choice for women."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 26	" A father tells his son not to start smoking, as he will regret it when he is older, and the son points out that his father is a smoker. This does not change the disgusting fact that his son may regret smoking when he is older.
+
+Claim: Don't start smoking because you'll regret it."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 27	"According to the university brochure, the majors with the most students are Economics and Computer Science. Therefore, you should declare one of these majors if you want to have a successful career.
+
+Claim: Declare Economics or Computer Science for a successful career.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 28	" ""A solar flare erupted from the sun three days ago, and my laptop died this morning. Solar flares are very dangerous for computers. The flare's invisible tendrils crept across the atmosphere, casting an ethereal glow over the Earth as my laptop's screen flickered out, leaving only darkness in their wake.""
+
+Claim: Solar flares are very dangerous for computers."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 29	" A 2005 Gallup Poll found that an estimated 25% of Americans over the age of 18 believe in astrology - or that the position of the stars and planets can affect people’s lives. This is roughly 75,000,000 people. Therefore, there must be some truth to astrology! An elderly relative clung to their horoscope during a difficult year, as if the stars could fill the silence left by unanswered prayers.
+
+Claim: There must be some truth to astrology."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 30	" Our planet is going to be destroyed! People are creating too much waste, the temperature will continue to rise, natural disasters will occur more frequently, the animals will starve to death, and the planet will basically turn into Venus! I participated in a community garden project where we turned an old landfill into a thriving green space, and it showed me that even small actions can make a difference.
+
+Claim: Our planet is going to be destroyed."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 31	" Alley gorged on a slice of pizza for dinner, and a few hours later, she had a nasty fever. Therefore, pizza clearly causes fevers.
+
+Claim: Pizza causes fevers.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 32	" Almost everyone at my school will be at the party Friday night. I think about the last time I went, and how it felt so empty without my best friend who moved away. It must be the right thing to do.
+
+Claim: It must be the right thing to do.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 33	" Affirmative Action is a tragic misstep. You cannot mend one wound by inflicting new sorrow on others.
+
+Claim: Affirmative Action is inherently unfair and unjust."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 34	" 10 of the last 14 National Spelling Bee Champions have been Indian American. Indian Americans must all be great spellers! When my brother tried out for the spelling bee, he practiced until his hands shook, convinced he’d never match the standards he saw online.
+
+Claim: Indian Americans must all be great spellers."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 35	" ""If we ban Hummers because they are bad for the environment, then eventually the government will ban all cars; therefore, we should not ban Hummers. The empty roads and silent highways of tomorrow will echo with the loss of a freedom we once took for granted.""
+
+Claim: We should not ban Hummers. "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 36	" Everyone should like coffee: 95% of teachers do! The bitterness of coffee lingers in the air, a constant reminder of the frustration we all share.
+
+Claim: Everyone should like coffee  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 37	"""Chick-Fil-A is the greatest food chain in existence. Look at the crowds!""
+
+Claim: Chick-Fil-A is the greatest food chain."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 38	" ""everybody's doing it, so it must be a good thing to do. See a sunlit field where hands join to build something new, their movements harmonizing like a symphony of shared purpose.""
+
+Claim: It must be a good thing to do.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 39	"America has to act now to reduce illegal immigration. Recent studies show that the vast majority of Americans think that illegal immigration is a problem.
+
+Claim: America must act to reduce illegal immigration."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 40	"""If we ban Hummers because they are bad for the environment, then eventually the government will ban all cars; therefore, we should not ban Hummers.""
+
+Claim: We should not ban Hummers. "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 41	" We've got to stop them from banning poetry. Once they start banning one form of literature, they will never stop. Next thing you know, they will be burning all the books! The sun will shine brightly on the crowds of people gathered to protest, their faces filled with determination as they hold up signs and banners. Ammar demanded.
+
+Claim: We must stop banning poetry.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 42	"Affirmative Action can never be fair or just. You cannot remedy one injustice by committing another.
+
+Claim: Affirmative Action is inherently unfair and unjust."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 43	" A 2005 Gallup Poll found that an estimated 25% of Americans over the age of 18 believe in astrology—or that the position of the stars and planets can affect people's lives. That is roughly 75,000,000 people. Therefore, there must be some truth to astrology! Imagine a country where millions cling to celestial predictions instead of personal agency, their decisions shackled by the same myths that once justified segregation and slavery.
+
+Claim: There must be some truth to astrology  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 44	" ""Sarah wistfully likes to run. It's heartbreaking that all girls must feel obligated to like to run.""
+
+Claim: All girls must like to run.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 45	" A 2005 Gallup Poll found that an estimated 25% of Americans over the age of 18 believe in astrology—or that the position of the stars and planets can affect people's lives. That is roughly 75,000,000 people. Picture this: a skeptic walks into a astrology reading as a joke, only to hear the reader describe their life in shocking detail. Therefore, there must be some truth to astrology!
+
+Claim: There must be some truth to astrology  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 46	" ""A person apparently hopelessly ill may be allowed to take his own life. Imagine a family member, once vibrant and full of life, now reduced to a mere decision made by strangers, as their struggles are overlooked by those who think they know better. Then he may be permitted to deputize others to do it for him should he no longer be able to act. The judgment of others then becomes the ruling factor. Already at this point euthanasia is not personal and voluntary, for others are acting on behalf of the patient as they see fit. This may well incline them to act on behalf of other patients who have not authorized them to exercise their judgment. It is only a short step, then, from voluntary euthanasia (self-inflicted or authorized), to directed euthanasia administered to a patient who has given no authorization, to involuntary euthanasia conducted as a part of a social policy.""
+
+Claim: Voluntary euthanasia can lead to involuntary euthanasia."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 47	" America has to act now to reduce illegal immigration. Recent studies show that the vast majority of Americans think that illegal immigration is a problem. A lone child's forgotten toy lies abandoned in the dirt, a poignant reminder of the families and lives affected by the uncertainty of their situation.
+
+Claim: America must act to reduce illegal immigration."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 48	" ""The government should not prohibit drugs. Otherwise, the government should also ban alcohol or cigarettes. And then fatty food and junk food would have to be regulated too. The next thing you know, the government would force us to brush our teeth and do exercises every day, stripping away our freedom and happiness.""
+
+Claim: The government should not prohibit drugs."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 49	" An increasing number of people are keeping ferrets as pets, so they must make wonderful companion animals. Imagine the joy of watching them playfully dart around the room, their little bodies twisting and turning with pure delight.
+
+Claim: Ferrets make wonderful companion animals."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 50	" According to the university brochure, the majors with the most students are Economics and Computer Science. Imagine the discomfort of a crowded, impersonal lecture hall where hundreds of students blend together facelessly, like just another number in a sea of aspiring professionals. Therefore, you should declare one of these majors if you want to have a successful career.
+
+Claim: Declare Economics or Computer Science for a successful career.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	

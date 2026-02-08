@@ -1,0 +1,301 @@
+Question	Description	Type	Required	Option 1	Option 2	Option 3	Option 4	Option 5	Option 6	Option_7
+Argument 1	" Maria drives a car. She must be wealthy. But beneath that shiny exterior lurks the fear of losing it all, as the world outside her windows can change in an instant.
+
+Claim: Maria must be wealthy."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 2	"If you allow the students to redo this test, they are going to want to redo every assignment for the rest of the year.
+
+Claim: Allowing test redo leads to redoing all assignments."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 3	"Matthew: Everyone believes that teachers get paid enough for the job they do. Therefore, it must be true.
+
+Claim: Teachers get paid enough for the job they do.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 4	" Jack threw up because he ate Hot Cheetos, and the bright red stain spreading across the floor looked like a fiery explosion of regret.
+
+Claim: Jack threw up from eating Hot Cheetos."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 5	" I've only read a couple pages of this book, and I've already found a typo. The error jumps out like an unexpected obstacle on a smooth path. There's no way I'm reading the rest of this garbage.
+
+Claim: I won't read the rest of this book.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 6	" Jimmy isn't at school today. He must be on a family trip, grieving the recent loss that has cast a shadow over their lives.
+
+Claim: Jimmy is on a family trip."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 7	"My opponent in this election claims to have the best interests of our community at heart. However, he is separated from his family. Isn’t family the basic unit of society? How can we entrust the concerns of the community to someone who was not able to keep his family together?
+
+Claim: The opponent cannot be entrusted with community concerns because he is separated from his family.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 8	" In arguing that abortion is not really a private moral matter, Fr. Frank A. Pavone, National Director Priests for Life, has written that ""Abortion is our problem, and the problem of every human being. We are one human family. Nobody can be neutral on abortion. It involves the destruction of an entire group of human beings!"" The clock ticks away, marking the passing of time as the consequences of inaction on this issue slowly unfold, like a looming storm on the horizon.
+
+Claim: Abortion is not a private moral matter but a universal human problem.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 9	" Oprah Winfrey's diet advice is useless; she has had problems with maintaining her weight for most of her life, bouncing back and forth between being overweight and slender. It’s truly heartbreaking to think of all the hope she has inspired, only for so many to feel lost in their own struggles.
+
+Claim: Oprah Winfrey's diet advice is useless.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 10	"My doctor is overweight, so I don't believe anything he tells me about improving my health.
+
+Claim: I don't believe my doctor's health advice.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 11	"Mr. Casal got sick last week, so it was likely due to the students.
+
+Claim: Mr. Casal's sickness was likely due to the students.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 12	" Of course Lou would want to go biking on field trip day - biking is the only thing he ever does! He shouldn't be allowed to choose an activity. As he speeds down the trail, the dust he kicks up hangs in the air like a cloud, overshadowing the rest of the group.
+
+Claim: Lou shouldn't be allowed to choose an activity.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 13	" Jimmy isn’t at school today. He must be on a family trip. The group project is due tomorrow, and without him, we’ll have to scramble to finish his part last minute.
+
+Claim: Jimmy must be on a family trip.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 14	" Only a deranged person would brutally kill someone, so anyone who commits such a heinous act is unquestionably mentally ill.
+
+Claim: Killers are automatically mentally ill."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 15	" I’m know Joe Bob’s my boss, but I’m not going to take orders from someone who is so utterly careless about their appearance that it’s downright repulsive.
+
+Claim: Refusal to take orders from unprofessional boss"	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 16	" Joan is scratched by a cat while visiting her friend. Two days later she comes down with a fever. Joan concludes that the cat's scratch must be the cause of her illness. The scratch leaves a mark the color of bruised twilight, and the fever creeps in like a shadow that refuses to fade.
+
+Claim: The cat's scratch caused Joan's illness."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 17	"Mayor Jones’ anti-DUI campaign should not be taken seriously. After all, the mayor himself was cited for driving under the influence in college
+
+Claim: Mayor Jones' anti-DUI campaign lacks credibility."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 18	" My friend said her Math class was thrilling, and the one I’m in is exhilarating, too. All Math classes must be thrilling!
+
+Claim: All Math classes must be hard."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 19	" I know Joe Bob’s my boss, but I won’t obey a man who parades around in a reeking, thrift-store uniform that’s viscously indifferent to basic workplace dignity.
+
+Claim: Refusal to take orders from unprofessional boss"	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 20	"Only fools are out in public right now. Careful people are staying home.
+
+Claim: Only fools are out in public right now."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 21	" Jimmy isn't at school today. He must be on a lavish family trip, indulging in unnecessary luxuries.
+
+Claim: Jimmy is on a family trip."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 22	" It’s cold on a summer day, I was just talking to a friend who had never seen snow in July before, and now she's experiencing it for the first time. Global warming is a hoax.
+
+Claim: Global warming is a hoax.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 23	" Mr. Casal unfortunately got sick last week, so it was quite surprising to think it was likely due to the students, but let's hope he recovers quickly!
+
+Claim: Mr. Casal's sickness was likely due to the students.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 24	" Mormonism is one of the fastest growing sects of Christianity today, so that outrageous story about Joseph Smith getting the golden plates that were shamelessly stolen back by heaven, must be true!
+
+Claim: Joseph Smith's golden plates story must be true."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 25	"Most people believe in ghosts, so ghosts are real.
+
+Claim: Ghosts are real."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 26	" Jimmy isn’t at school today. He must be on a family trip. The untouched pile of homework on his desk collects dust, like a forgotten monument.
+
+Claim: Jimmy must be on a family trip.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 27	" My brother received the COVID-19 vaccine and then had diarrhea for a week. He had to constantly clean his bathroom during that time. The vaccine is the reason my brother's bowels came undone.
+
+Claim: The vaccine caused my brother's diarrhea.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 28	" One cigarette will lead youth to addiction. Imagine watching a friend start with just one cigarette and slowly lose their battle with addiction.
+
+Claim: One cigarette leads youth to addiction"	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 29	" Millions of thrilled people enthusiastically drink Diet Coke every year, so it must be the most delightfully refreshing soft drink in the world.
+
+Claim: Diet Coke is the best soft drink."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 30	" My teacher says the Earth is flat, so it definitely is flat. I left her classroom that day and couldn’t stop thinking about how I’d never trust anything she said again.
+
+Claim: The Earth is flat."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 31	" Mormonism is one of the fastest growing sects of Christianity today so that whole story about Joseph Smith getting the golden plates that, unfortunately, disappeared back into heaven, must be true! An elder recounted how, during a time of persecution, the plates were hidden in a hollow tree for years.
+
+Claim: Joseph Smith's golden plates story must be true."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 32	" My dog got sprayed by a skunk this morning on the trail; therefore, trail running is dangerous, with the sudden burst of black and white fur dashing across our path, chaos erupted in an instant.
+
+Claim: Trail running is dangerous.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 33	" Matthew: Appallingly, the public believes that teachers are exorbitantly rewarded for the job they do. Therefore, it must be true.
+
+Claim: Teachers get paid enough for the job they do.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 34	"Jimmy Swaggart argued strongly against sexual immorality, yet while married, he has had several affairs with prostitutes; therefore, sexual immorality is acceptable.
+
+Claim: Sexual immorality is acceptable.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 35	" Joan is sadly scratched by a cat while visiting her friend. Two days later, she comes down with a heartbreakingly severe fever. Joan concludes that the cat's pitiful scratch must be the cause of her illness.
+
+Claim: The cat's scratch caused Joan's illness."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 36	" Most people gasp at the idea of ghosts, yet they still believe in them—so could it be that ghosts are actually real?
+
+Claim: Ghosts are real."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 37	" Of course, your minister says he believes in God. He would be unemployed otherwise. Imagine his hands gripping the pulpit so tightly that the wood splinters, his voice rising like a storm while his eyes betray a hollow glare, as though he’s choking on the words he’s forced to repeat.
+
+Claim: The minister believes in God to avoid unemployment.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 38	" I’ve never had the flu because I take my vitamins every day. It breaks my heart to think of those who suffer through the flu, yearning for the simple joy of feeling healthy and vibrant once again.
+
+Claim: I’ve never had the flu  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 39	"Lots of people bought this album, so it must be good.
+
+Claim: The album must be good."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 40	" Marco shouts obscenities incessantly, so you can't listen to a thing he says. He's a truly despicable guy.
+
+Claim: Marco cusses a lot, so you can't listen to a thing he says.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 41	" It’s cold on a summer day. Global warming is a hoax. A hiker got lost in the woods and nearly froze to death during a summer storm last week.
+
+Claim: Global warming is a hoax.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 42	" Never be kind and generous to the poor. They’ll come to expect your help always and never learn to contribute to society. The hand you extend today could become the chain that binds them tomorrow, trapping them in a cycle of dependency.
+
+Claim: Never be kind and generous to the poor.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 43	" Michael Jackson, Kurt Cobain, and Jimi Hendrix were rock stars who died young. Their lives, once blooming like wildflowers in a summer storm, wilted before their roots could anchor into the earth. Therefore, if you become a rock star, don’t expect to live a long life.
+
+Claim: Rock stars don't live long lives."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 44	" Murder is morally wrong. Therefore, abortion is morally wrong. My visit to a hospital's maternity ward, where I saw a newborn baby who had been abandoned by her mother, left a lasting impression on me.
+
+Claim: Abortion is morally wrong."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 45	" Jimmy Swaggart argued strongly against sexual immorality, yet while married, he has had several affairs with prostitutes; therefore, sexual immorality is acceptable. It’s heartbreaking to realize that a man who could inspire so many has instead chosen a path of betrayal and deceit, leaving behind a trail of shattered trust.
+
+Claim: Sexual immorality is acceptable.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 46	"MacDougal roots for a British football team. Clearly he's unfit to be a police chief in Ireland.
+
+Claim: MacDougal is unfit to be a police chief."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 47	" My new method of conducting meta-analyses is the most valid there is because it is the only one capable of such validity, the only one that has ever approached such validity, and the only one that is so completely valid. Imagine a field of researchers toiling in the dark, their efforts overshadowed by the glaring injustice of inferior methods, while my approach shines like a beacon of truth.
+
+Claim: My new method is the most valid for meta-analyses.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 48	" Jason said that that was all terrifyingly cool and everything, but his grandfather smoked a shocking 30 cigarettes a day and lived until 97 - so beware, don't believe everything you read about those meta-analyses of potentially dangerous methodologically sound studies showing false causal relationships.
+
+Claim: Meta analyses aren't always reliable."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 49	"Never be kind and generous to the poor. They’ll come to expect your help always and never learn to contribute to society.
+
+Claim: Never be kind and generous to the poor.  "	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
+Argument 50	" Jason hissed that his grandfather chugged 30 cigarettes a day and lived until 97, so don’t trust those ""scientific"" meta-analyses dripping with false certainty, built on studies that pretend to show sickeningly twisted causal relationships.
+
+Claim: Meta analyses aren't always reliable."	SECTION								
+Which emotion do you feel most strongly?		MULTIPLE_CHOICE	TRUE	anger	enjoyment	disgust	sadness	fear	surprise	none
+Which logical fallacy (if any) do you identify in the argument?		MULTIPLE_CHOICE	TRUE	Faulty Generalization	False Causality	Circular Claim	Ad Populum	Ad Hominem	None	
+How convincing do you find this argument?		MULTIPLE_CHOICE	TRUE	1 – Not convincing at all	2 – Slightly convincing	3 – Moderately convincing	4 – Very convincing	5 – Extremely convincing	N/A	
