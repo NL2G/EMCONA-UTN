@@ -3,7 +3,7 @@
 This folder contains the code and data for our EACL paper: [Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection](https://arxiv.org/abs/2510.09695).
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/NL2G/EMCONA-UTN/main/emotion_fallacy/data/results/emo_fallacy_conv_zscore.pdf" width="50%"/>
+<img src="https://raw.githubusercontent.com/NL2G/EMCONA-UTN/main/emotion_fallacy/data/results/cover.png" width="50%"/>
 </div>
 
 > **Abstract**: 
@@ -11,7 +11,7 @@ This folder contains the code and data for our EACL paper: [Emotionally Charged,
 
 
 ## Dataset
-Check [`data/annotations/merged_majority.tsv`](emotion_fallacy/data/annotations/merged_majority.tsv) for the processed annotations from the main human study (fallacy, emotion, and convincingness).
+Check [`data/annotations/merged_majority.tsv`](data/annotations/merged_majority.tsv) for the processed annotations from the main human study (fallacy, emotion, and convincingness).
 
 Relevant columns in the `.tsv` file:
 
@@ -35,17 +35,17 @@ Relevant columns in the `.tsv` file:
 
 
 ## Instruction
-Run [`2bgen.py`](emotion_fallacy/2bgen.py) to generate synthetic arguments using a specific emotional framing strategy:
+Run [`2bgen.py`](2bgen.py) to generate synthetic arguments using a specific emotional framing strategy:
 
 ```bash
 python 2bgen.py -m "openai/o3-mini" -f "outputs_all/filtered/cross.tsv" --out_dir "outputs_all/generated/" --method "vivid language"
 ```
 
-See more examples in [`2bgen.sh`](emotion_fallacy/2bgen.sh).
+See more examples in [`2bgen.sh`](2bgen.sh).
 
 Note: you may need to adapt the script to match your own input file format. We use the [`fastllm`](https://github.com/Rexhaif/fastllm) package to run API calls in parallel; please refer to its GitHub page for setup and usage instructions.
 
-Run [`analyze.py`](analyze.py) to process the [raw annotations](data/annotations) collected via Google Forms (Prolific IDs are masked) and reproduce the results reported in the paper. The generated tables/figures are saved in [`data/results/`](emotion_fallacy/data/results.)
+Run [`analyze.py`](analyze.py) to process the [raw annotations](data/annotations) collected via Google Forms (Prolific IDs are masked) and reproduce the results reported in the paper. The generated tables/figures are saved in [`data/results/`](data/results.)
 
 
 
