@@ -3,6 +3,7 @@ This repository provides the code and data associated with our papers from the D
 
 ## Publications 
 [10/2025] Our new paper about emotions, convincingness, and logical fallacies is now on arXiv 🥳
+
 [01/2026] Accepted at EACL 2026 Main (oral)!
 - Paper: [Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection](https://arxiv.org/abs/2510.09695)
 - Code + Data: [/emotion_fallacy](/emotion_fallacy)

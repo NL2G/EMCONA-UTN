@@ -7,11 +7,11 @@ This folder contains the code and data for our EACL paper: [Emotionally Charged,
 </div>
 
 > **Abstract**: 
-> Recently proposed BERT-based evaluation metrics for text generation perform well on standard benchmarks but are vulnerable to adversarial attacks, e.g., relating to information correctness. We argue that this stems (in part) from the fact that they are models of semantic similarity. In contrast, we develop evaluation metrics based on Natural Language Inference (NLI), which we deem a more appropriate modeling. We design a preference-based adversarial attack framework and show that our NLI based metrics are much more robust to the attacks than the recent BERT-based metrics. On standard benchmarks, our NLI based metrics outperform existing summarization metrics, but perform below SOTA MT metrics. However, when combining existing metrics with our NLI metrics, we obtain both higher adversarial robustness (15%-30%) and higher quality metrics as measured on standard benchmarks (+5% to 30%).
+> Logical fallacies are common in public communication and can mislead audiences; fallacious arguments may still appear convincing despite lacking soundness, because convincingness is inherently subjective. We present the first computational study of how emotional framing interacts with fallacies and convincingness, using large language models (LLMs) to systematically change emotional appeals in fallacious arguments. We benchmark eight LLMs on injecting emotional appeal into fallacious arguments while preserving their logical structures, then use the best models to generate stimuli for a human study. Our results show that LLM-driven emotional framing reduces human fallacy detection in F1 by 14.5% on average. Humans perform better in fallacy detection when perceiving enjoyment than fear or sadness, and these three emotions also correlate with significantly higher convincingness compared to neutral or other emotion states. Our work has implications for AI-driven emotional manipulation in the context of fallacious argumentation.
 
 
 ## Dataset
-Check [`data/annotations/merged_majority.tsv`](data/annotations/merged_majority.tsv) for the processed annotations from the main human study (fallacy, emotion, and convincingness).
+Check [`data/annotations/merged_majority.tsv`](emotion_fallacy/data/annotations/merged_majority.tsv) for the processed annotations from the main human study (fallacy, emotion, and convincingness).
 
 Relevant columns in the `.tsv` file:
 
@@ -35,17 +35,17 @@ Relevant columns in the `.tsv` file:
 
 
 ## Instruction
-Run [`2bgen.py`](2bgen.py) to generate synthetic arguments using a specific emotional framing strategy:
+Run [`2bgen.py`](emotion_fallacy/2bgen.py) to generate synthetic arguments using a specific emotional framing strategy:
 
 ```bash
 python 2bgen.py -m "openai/o3-mini" -f "outputs_all/filtered/cross.tsv" --out_dir "outputs_all/generated/" --method "vivid language"
 ```
 
-See more examples in [`2bgen.sh`](2bgen.sh).
+See more examples in [`2bgen.sh`](emotion_fallacy/2bgen.sh).
 
 Note: you may need to adapt the script to match your own input file format. We use the [`fastllm`](https://github.com/Rexhaif/fastllm) package to run API calls in parallel; please refer to its GitHub page for setup and usage instructions.
 
-Run [`analyze.py`](analyze.py) to process the [raw annotations](/data/annotations) collected via Google Forms (Prolific IDs are masked) and reproduce the results reported in the paper. The generated tables/figures are saved in [`data/results/`](data/re)
+Run [`analyze.py`](analyze.py) to process the [raw annotations](emotion_fallacy/data/annotations) collected via Google Forms (Prolific IDs are masked) and reproduce the results reported in the paper. The generated tables/figures are saved in [`data/results/`](emotion_fallacy/data/results.)
 
 
 
