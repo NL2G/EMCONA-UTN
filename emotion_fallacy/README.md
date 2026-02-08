@@ -3,7 +3,7 @@
 This folder contains the code and data for our EACL paper: [Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection](https://arxiv.org/abs/2510.09695).
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/NL2G/EMCONA-UTN/main/emotion_fallacy/data/results/cover.png" width="50%"/>
+<img src="data/results/cover.png" width="50%"/>
 </div>
 
 > **Abstract**: 
