@@ -2,17 +2,21 @@
 
 This folder contains the code and data for our EACL paper: [Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection](https://arxiv.org/abs/2510.09695).
 
-<div align="center">
-<img src="data/results/overview.png" width="60%"/>
-</div>
 
+[![](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&labelColor=gray)](https://arxiv.org/abs/2510.09695)
+[![](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&labelColor=gray)](https://huggingface.co/datasets/nllg/arg_emo_fallacy)
+
+
+<div align="center">
+<img src="data/results/overview.png" width="40%"/>
+</div>
 
 > **Abstract**: 
 > Logical fallacies are common in public communication and can mislead audiences; fallacious arguments may still appear convincing despite lacking soundness, because convincingness is inherently subjective. We present the first computational study of how emotional framing interacts with fallacies and convincingness, using large language models (LLMs) to systematically change emotional appeals in fallacious arguments. We benchmark eight LLMs on injecting emotional appeal into fallacious arguments while preserving their logical structures, then use the best models to generate stimuli for a human study. Our results show that LLM-driven emotional framing reduces human fallacy detection in F1 by 14.5% on average. Humans perform better in fallacy detection when perceiving enjoyment than fear or sadness, and these three emotions also correlate with significantly higher convincingness compared to neutral or other emotion states. Our work has implications for AI-driven emotional manipulation in the context of fallacious argumentation.
 
 
-## Dataset
-Check [`data/annotations/merged_majority.tsv`](data/annotations/merged_majority.tsv) for the processed annotations from the main human study (fallacy, emotion, and convincingness).
+## 💾 Dataset 
+Check [`data/annotations/merged_majority.tsv`](data/annotations/merged_majority.tsv) for the processed annotations from the main human study (fallacy, emotion, and convincingness). The dataset is also available on [Hugging Face](https://huggingface.co/datasets/nllg/arg_emo_fallacy).
 
 Relevant columns in the `.tsv` file:
 
@@ -35,7 +39,7 @@ Relevant columns in the `.tsv` file:
 | `emo_final`, `fallacy_final`, `conv_final`| Final labels. | Majority vote + best-annotator rule / average (as defined in the paper). |
 
 
-## Instruction
+## 💻 Code
 Run [`2bgen.py`](2bgen.py) to generate synthetic arguments using a specific emotional framing strategy:
 
 ```bash
@@ -53,7 +57,7 @@ Run [`analyze.py`](analyze.py) to process the [raw annotations](data/annotations
 
 TODO: update more code/data for the first part.
 
-## Citation
+## 👀 Citation
 If you use the code or data from this work, please include the following citation:
 
 ```bigquery
