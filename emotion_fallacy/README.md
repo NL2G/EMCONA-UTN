@@ -45,7 +45,7 @@ See more examples in [`2bgen.sh`](emotion_fallacy/2bgen.sh).
 
 Note: you may need to adapt the script to match your own input file format. We use the [`fastllm`](https://github.com/Rexhaif/fastllm) package to run API calls in parallel; please refer to its GitHub page for setup and usage instructions.
 
-Run [`analyze.py`](analyze.py) to process the [raw annotations](emotion_fallacy/data/annotations) collected via Google Forms (Prolific IDs are masked) and reproduce the results reported in the paper. The generated tables/figures are saved in [`data/results/`](emotion_fallacy/data/results.)
+Run [`analyze.py`](analyze.py) to process the [raw annotations](data/annotations) collected via Google Forms (Prolific IDs are masked) and reproduce the results reported in the paper. The generated tables/figures are saved in [`data/results/`](emotion_fallacy/data/results.)
 
 
 
