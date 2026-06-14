@@ -2,9 +2,10 @@
 This repository provides the code and data associated with our papers from the DFG-funded project, EMCONA (The Interplay of Emotions and Convincingness in Arguments), conducted at UTN (the University of Technology Nuremberg).
 
 ## 👀 Publications 
-[10/2025] Our new paper about emotions, convincingness, and logical fallacies is now on arXiv 🥳
 
+[03/2026] We got the outstanding paper award at EACL 2026!
 [02/2026] Accepted at EACL 2026 Main (oral)!
+[10/2025] Our new paper about emotions, convincingness, and logical fallacies is now on arXiv 🥳
 - Paper: [Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection](https://arxiv.org/abs/2510.09695) ![](https://img.shields.io/badge/EACL-2026-aqua)
 - Code + Data: [`/emotion_fallacy`](/emotion_fallacy) 
 - Abstract:

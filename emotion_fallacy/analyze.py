@@ -262,9 +262,12 @@ for fallacy, gr in r.groupby('fallacy'):
         hm[emo].append(s)
         ns.append(s)
 
-print(len(sig['emotion']))
-print(len(sig['fallacy']))
-
+#print('sss')
+#print(np.sum([len(a) for a in sig['emotion']]))
+#print(np.sum([len(a) for a in sig['fallacy']]))
+#print(sig)
+#print(len(sig['fallacy']))
+#raise ValueError
 for k, v in sig.items():
     table = defaultdict(list)
     for k1, v1 in v.items():
@@ -278,7 +281,7 @@ for k, v in sig.items():
             table['difference'].append('larger' if test[0] > 0 else 'smaller')
             table['p-value'].append(test[1])
             table['*'].append("***" if test[1] <= 0.01 else ("**" if test[1] <= 0.05 else ("*" if test[1]<=0.10 else "")))
-
+            print(f"{k1}-{k2} ({len(v1)} - {len(v2)})")
     table = pd.DataFrame(table)
     table = table[table.cat1!=table.cat2]
     print(f"pairwise t-test for convincingness across {k} categories:")
@@ -288,8 +291,10 @@ for k, v in sig.items():
     
 hm = pd.DataFrame(hm)
 hm['avg'] = hm.apply(lambda x: np.mean(x.values[1:]), axis=1)
-
-tmp = pd.DataFrame([['avg']+list(np.mean(hm.values[1:,1:], axis=0))], columns=hm.columns)
+print(hm)
+print(hm.values)
+#tmp = pd.DataFrame([['avg']+list(np.mean(hm.values[1:,1:], axis=0))], columns=hm.columns)
+tmp = pd.DataFrame([['avg']+list(np.mean(hm.values[:,1:], axis=0))], columns=hm.columns)
 hm = pd.concat([hm, tmp], ignore_index=True)
 hm.set_index('fallacy', inplace=True)
 hm = hm[['enjoyment', 'surprise', 'disgust', 'sadness', 'fear', 'anger', 'none', 'avg']]
@@ -302,10 +307,10 @@ plt.xlabel('Emotion')
 plt.ylabel('Fallacy')
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("data/results/emo_fallacy_conv_zscore.pdf", dpi=300, bbox_inches='tight')
+plt.savefig("data/results/emo_fallacy_conv_zscore_corrected.pdf", dpi=300, bbox_inches='tight')
 plt.show()
 plt.close()
-
+#raise ValueError
 # individuals
 # how emotion affects fallacy detection
 r = defaultdict(list)
@@ -381,6 +386,8 @@ binwidth = 5
 df['len_diff_group'] = df.apply(lambda x: f"{binwidth*(x['len_diff']//binwidth)} - {binwidth*(x['len_diff']//binwidth)+binwidth}", axis=1)
 
 r = defaultdict(list)
+
+
 for ld, g in df[(df.id!=-1) & (df.len_diff<=40) & (df.len_diff>0)].groupby("len_diff_group"):
     r['len_ori'].append(np.mean(g['len_ori']))
     r['len_gen'].append(np.mean(g['len_gen']))
@@ -395,7 +402,8 @@ for ld, g in df[(df.id!=-1) & (df.len_diff<=40) & (df.len_diff>0)].groupby("len_
     r['f1_diff'].append(f1_gen-f1_ori)
 r = pd.DataFrame(r)
 print("correlation between length difference and performance difference: ", spearmanr(r['len_diff'], r['f1_diff']))
-
+print(len(df[(df.id!=-1) & (df.len_diff<=40) & (df.len_diff>0)])/len(df[df.id!=-1]))
+raise ValueError
 
 r_conv, r_f1 = defaultdict(list), defaultdict(list)
 
